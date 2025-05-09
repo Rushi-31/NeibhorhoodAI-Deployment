@@ -1,0 +1,738 @@
+Neighborhood,Sublocality,City,Property Type,Price (INR),Area (sq ft),Bedrooms,Price per sq ft,Monthly Rent (INR),Schools Nearby,Hospitals Nearby,Public Transport,Amenities,Community Sentiment,Crime Rate,Professions,General Income (INR)
+Koregaon Park,North Main Road,Pune,Apartment,18500000,1600,3,11563,50000,8,7,Very High,Gym,Very High,Low,"(Investment Banker, Entrepreneur, Senior Executive)",200000-800000
+Baner,Baner Road,Pune,Apartment,14500000,1400,3,10357,38000,7,6,High,Clubhouse,High,Low,"(Software Engineer, Consultant, IT Director)",150000-500000
+Balewadi,Balewadi High Street,Pune,Penthouse,16500000,2400,4,6875,85000,9,7,Very High,Swimming Pool,Very High,Low,"(Startup Founder, Senior Executive, Investor)",300000+
+Aundh,DP Road,Pune,Apartment,13500000,1500,3,9000,40000,7,6,High,Gated Security,High,Low,"(Doctor, Lawyer, Business Owner)",120000-400000
+Aundh,Westend Colony,Pune,Apartment,13800000,1550,3,8900,42000,8,6,High,Clubhouse,High,Low,"(Bank Manager, Consultant, Architect)",120000-350000
+Aundh,Sanghvi Nagar,Pune,Apartment,9800000,1300,2,7538,27000,6,5,High,Gated Society,High,Low,"(Marketing Executive, Software Engineer, Financial Analyst)",100000-300000
+Hinjewadi,Phase 1,Pune,Apartment,12500000,1400,3,8929,35000,7,6,High,Gym,High,Low,"(Software Developer, Data Scientist, Product Manager)",100000-350000
+Hinjewadi,Phase 2,Pune,Apartment,11500000,1300,3,8846,33000,6,5,High,Swimming Pool,High,Low,"(IT Consultant, Business Analyst, Software Tester)",80000-250000
+Hinjewadi,Phase 3,Pune,Apartment,11000000,1250,2,8800,31000,5,5,High,Parking,High,Low,"(HR Manager, Data Engineer, QA Engineer)",75000-220000
+Wakad,Dutta Mandir Road,Pune,Apartment,9800000,1300,3,7538,27000,6,5,High,Gated Society,High,Low,"(Software Engineer, Financial Analyst, Architect)",100000-300000
+Wakad,Kaspate Vasti,Pune,Apartment,9600000,1200,3,8000,26000,5,4,High,Security,High,Low,"(Sales Executive, HR Professional, Business Consultant)",80000-250000
+Tathawade,Near JSPM College,Pune,Apartment,7500000,1200,3,6250,20000,5,4,Moderate,Parking,Moderate,Moderate,"(Professor, Pharmacist, Accountant)",50000-120000
+Tathawade,Dange Chowk,Pune,Apartment,7800000,1250,3,6240,22000,6,4,Moderate,Gym,Moderate,Moderate,"(Marketing Manager, IT Support, Financial Advisor)",60000-140000
+Ravet,Akurdi Railway Station Area,Pune,Apartment,6800000,1000,2,6800,17000,4,3,Moderate,Gym,Moderate,Moderate,"(Engineer, Marketing Executive, Architect)",60000-150000
+Ravet,Dehu Road,Pune,Apartment,7000000,1100,2,6364,18000,4,3,Moderate,Parking,Moderate,Moderate,"(Sales Manager, Software Developer, Consultant)",70000-180000
+Pimple Saudagar,Kunal Icon Road,Pune,Apartment,9200000,1250,3,7360,27000,6,5,High,Gated Community,High,Low,"(IT Manager, Financial Analyst, Professor)",80000-200000
+Pimple Saudagar,Kate Wasti,Pune,Apartment,8900000,1200,3,7417,26000,5,4,High,Gated Society,High,Low,"(Retail Manager, HR Executive, Civil Engineer)",70000-180000
+Vishrantwadi,Airport Road,Pune,Apartment,6700000,1100,3,6091,18000,4,3,Moderate,Security,Moderate,Moderate,"(Software Developer, Marketing Professional, HR Manager)",60000-150000
+Hadapsar,Magarpatta Road,Pune,Apartment,8700000,1200,3,7250,25000,6,5,High,Gym,High,Low,"(Doctor, Consultant, Real Estate Agent)",100000-500000
+Magarpatta,South Gate,Pune,Apartment,12000000,1400,3,8571,38000,7,6,Very High,Clubhouse,Very High,Low,"(Corporate Executive, IT Director, Business Owner)",200000-600000
+Kharadi,EON IT Park,Pune,Apartment,11500000,1400,3,8214,35000,7,6,Very High,Gated Community,Very High,Low,"(Software Engineer, Investment Banker, Startup Founder)",150000-500000
+Wagholi,Raisoni College Area,Pune,Apartment,5400000,950,2,5684,14000,3,2,Moderate,Gated Society,Moderate,Moderate,"(Students, Software Trainee, Freelancer)",30000-100000
+Wagholi,Bakori Road,Pune,Apartment,6200000,1050,2,5905,16000,4,3,Moderate,Security,Moderate,Moderate,"(College Lecturer, Sales Executive, Graphic Designer)",50000-120000
+Dhanori,DY Patil College Road,Pune,Apartment,6700000,1100,3,6091,18000,4,3,Moderate,Security,Moderate,Moderate,"(Software Developer, Marketing Professional, HR Manager)",60000-150000
+Mundhwa,Keshav Nagar,Pune,Apartment,10500000,1400,3,7500,30000,6,5,Very High,Security,High,Low,"(Software Engineer, Consultant, Entrepreneur)",100000-300000
+Vadgaon Sheri,Near Nagar Road,Pune,Apartment,9700000,1300,3,7462,28000,6,5,High,Gated Security,High,Low,"(IT Professional, Financial Analyst, Marketing Manager)",100000-300000
+Kalyani Nagar,Gold Adlabs Area,Pune,Apartment,12500000,1500,3,8333,40000,8,6,Very High,Gym,Very High,Low,"(Investment Banker, Senior Consultant, Business Owner)",200000-600000
+Bavdhan,Chandani Chowk,Pune,Apartment,9800000,1400,3,7000,25000,6,5,High,Security,High,Low,"(Software Engineer, Consultant, Business Analyst)",100000-250000
+Undri,Near Bishop’s School,Pune,Apartment,7200000,1100,3,6545,18000,5,4,Moderate,Gym,Moderate,Moderate,"(Professor, Architect, Marketing Professional)",60000-200000
+Koregaon Park,Lane 5,Pune,Apartment,19500000,1700,3,11471,55000,9,8,Very High,Gated Security,Very High,Low,"(Entrepreneur, Consultant, Investment Banker)",250000-800000
+Koregaon Park,Lane 7,Pune,Penthouse,35000000,3000,4,11667,120000,10,9,Very High,Swimming Pool,Very High,Low,"(CEO, Business Owner, Investor)",400000-1000000
+Viman Nagar,Near Symbiosis College,Pune,Apartment,16000000,1500,3,10667,45000,8,7,Very High,Gym,Very High,Low,"(Corporate Executive, IT Professional, Marketing Director)",200000-600000
+Viman Nagar,Town Square,Pune,Apartment,14000000,1300,3,10769,38000,7,6,Very High,Parking,Very High,Low,"(Software Engineer, Analyst, Business Consultant)",150000-450000
+Kharadi,World Trade Center Area,Pune,Apartment,12500000,1400,3,8929,35000,7,6,Very High,Clubhouse,Very High,Low,"(Software Developer, Investment Banker, Startup Founder)",150000-500000
+Kharadi,Riverdale,Pune,Apartment,9800000,1300,3,7538,28000,6,5,High,Gated Society,High,Low,"(Data Scientist, Financial Analyst, Sales Executive)",100000-350000
+Hinjewadi,Phase 1,Pune,Apartment,11500000,1400,3,8214,32000,7,6,High,Gym,High,Low,"(IT Consultant, Business Analyst, Software Engineer)",80000-250000
+Hinjewadi,Phase 3,Pune,Villa,25000000,2800,4,8929,65000,9,7,High,Swimming Pool,High,Low,"(Tech Lead, Senior Product Manager, IT Director)",200000-500000
+Baner,Pancard Club Road,Pune,Apartment,15000000,1500,3,10000,40000,7,6,High,Clubhouse,High,Low,"(Senior Engineer, Doctor, Lawyer)",120000-400000
+Baner,Veerbhadra Nagar,Pune,Apartment,9800000,1300,2,7538,28000,6,5,High,Gated Security,High,Low,"(Marketing Executive, Data Analyst, IT Professional)",100000-300000
+Balewadi,Balewadi High Street,Pune,Penthouse,17000000,2400,4,7083,90000,9,7,Very High,Swimming Pool,Very High,Low,"(Startup Founder, Senior Executive, Investor)",300000+
+Aundh,Baner Road,Pune,Apartment,13500000,1450,3,9310,41000,7,6,High,Gated Security,High,Low,"(Doctor, Lawyer, Business Owner)",120000-400000
+Aundh,Seasons Road,Pune,Apartment,14000000,1550,3,9032,42000,8,6,High,Clubhouse,High,Low,"(Bank Manager, Consultant, Architect)",120000-350000
+Wakad,Vishal Nagar,Pune,Apartment,9800000,1300,3,7538,28000,6,5,High,Gated Society,High,Low,"(Software Engineer, Financial Analyst, Architect)",100000-300000
+Wakad,Datta Mandir Road,Pune,Apartment,9400000,1250,2,7520,25000,5,4,High,Security,High,Low,"(Sales Executive, HR Professional, Business Consultant)",80000-250000
+Tathawade,Near JSPM College,Pune,Apartment,7700000,1200,3,6417,22000,5,4,Moderate,Parking,Moderate,Moderate,"(Professor, Pharmacist, Accountant)",50000-120000
+Tathawade,Krishna Chowk,Pune,Apartment,8000000,1300,3,6154,24000,6,4,Moderate,Gym,Moderate,Moderate,"(Marketing Manager, IT Support, Financial Advisor)",60000-140000
+Ravet,Sentosa Resort Area,Pune,Apartment,7200000,1100,2,6545,18000,4,3,Moderate,Gym,Moderate,Moderate,"(Engineer, Marketing Executive, Architect)",60000-150000
+Ravet,Dehu Road,Pune,Apartment,7000000,1050,2,6667,17000,4,3,Moderate,Parking,Moderate,Moderate,"(Sales Manager, Software Developer, Consultant)",70000-180000
+Kalyani Nagar,Gold Adlabs Area,Pune,Apartment,12500000,1500,3,8333,40000,8,6,Very High,Gym,Very High,Low,"(Investment Banker, Senior Consultant, Business Owner)",200000-600000
+Magarpatta,Near DC Office,Pune,Apartment,11000000,1400,3,7857,35000,7,6,Very High,Gated Security,Very High,Low,"(Corporate Executive, IT Director, Business Owner)",200000-600000
+Dhanori,DY Patil College Road,Pune,Apartment,7500000,1200,3,6250,20000,4,3,Moderate,Security,Moderate,Moderate,"(Software Developer, Marketing Professional, HR Manager)",60000-150000
+Mundhwa,Keshav Nagar,Pune,Apartment,10500000,1400,3,7500,32000,6,5,Very High,Security,High,Low,"(Software Engineer, Consultant, Entrepreneur)",100000-300000
+Vadgaon Sheri,Near Nagar Road,Pune,Apartment,9700000,1300,3,7462,28000,6,5,High,Gated Security,High,Low,"(IT Professional, Financial Analyst, Marketing Manager)",100000-300000
+Lohegaon,Near Airport Road,Pune,Apartment,6200000,1100,3,5636,16000,4,3,Moderate,Security,Moderate,Moderate,"(Retail Manager, HR Executive, Civil Engineer)",70000-180000
+Katraj,Balaji Nagar,Pune,Apartment,5800000,1050,2,5524,15000,4,3,Moderate,Gym,Moderate,Moderate,"(Teacher, Nurse, Store Manager)",50000-120000
+Nanded City,Nanded Bridge Area,Pune,Apartment,9000000,1400,3,6429,25000,6,5,High,Gated Community,High,Low,"(IT Consultant, Marketing Director, Engineer)",100000-250000
+Hadapsar,Magarpatta Road,Pune,Apartment,8700000,1200,3,7250,25000,6,5,High,Gym,High,Low,"(Doctor, Consultant, Real Estate Agent)",100000-500000
+Shivaji Nagar,Jangli Maharaj Road,Pune,Apartment,19500000,1600,3,12188,50000,9,8,Very High,Clubhouse,Very High,Low,"(Lawyer, Professor, Senior Business Consultant)",200000-700000
+Sinhagad Road,Near Navale Bridge,Pune,Apartment,6500000,1100,3,5909,18000,4,3,Moderate,Gym,Moderate,Moderate,"(Bank Employee, Teacher, Civil Engineer)",60000-150000
+Kondhwa,Salunke Vihar,Pune,Apartment,7800000,1200,3,6500,20000,5,4,Moderate,Security,Moderate,Moderate,"(Small Business Owner, Software Engineer, HR Professional)",80000-200000
+Shivajinagar,Model Colony,Pune,Apartment,14500000,1350,3,10741,42000,8,7,Very High,Gated Community,Very High,Low,"(Lawyer, Investment Banker, Professor)",180000-600000
+Kondhwa,NIBM Road,Pune,Apartment,9800000,1400,3,7000,27000,6,5,High,Gym,High,Low,"(Software Engineer, HR Manager, Digital Marketer)",100000-300000
+Lohegaon,Airport Road,Pune,Apartment,7200000,1100,2,6545,18000,4,3,Moderate,Parking,Moderate,Moderate,"(Pilot, Air Traffic Controller, Security Analyst)",70000-250000
+BT Kawade Road,Ganga Satellite,Pune,Apartment,11500000,1300,3,8846,35000,7,6,Very High,Clubhouse,Very High,Low,"(IT Consultant, Senior Analyst, Doctor)",150000-450000
+Warje,Atul Nagar,Pune,Apartment,7600000,1200,2,6333,22000,5,4,Moderate,Security,Moderate,Moderate,"(Teacher, Sales Manager, Architect)",60000-180000
+Vadgaon Budruk,Sinhagad Road,Pune,Apartment,8500000,1300,3,6538,25000,6,5,High,Gated Society,High,Low,"(Finance Executive, Consultant, Lawyer)",80000-250000
+Pashan,Pashan Sus Road,Pune,Apartment,11200000,1450,3,7724,33000,7,6,High,Clubhouse,High,Low,"(Professor, Data Scientist, Entrepreneur)",150000-500000
+Bhugaon,Near Manas Lake,Pune,Apartment,9500000,1400,3,6785,28000,5,4,Moderate,Parking,Moderate,Moderate,"(Bank Manager, Investment Advisor, Consultant)",90000-300000
+Chakan,Chakan MIDC,Pune,Apartment,7800000,1200,3,6500,22000,5,4,Moderate,Gated Security,Moderate,Moderate,"(Factory Manager, Engineer, Technician)",70000-200000
+Talegaon Dabhade,Near Talegaon Station,Pune,Apartment,6200000,1100,2,5636,16000,4,3,Moderate,Security,Moderate,Moderate,"(Mechanical Engineer, Logistic Manager, Teacher)",50000-150000
+Lonavala,Tungarli,Lonavala,Villa,28500000,4000,5,7125,95000,9,8,Very High,Swimming Pool,Very High,Low,"(Entrepreneur, Hotelier, Bollywood Executive)",500000+
+Kamshet,Kamshet Hills,Pune,Villa,31000000,4200,5,7381,98000,8,7,Very High,Gym,Very High,Low,"(Retired Industrialist, Investor, Director)",500000+
+Charoli,Near DY Patil College,Pune,Apartment,5600000,1000,2,5600,15000,3,2,Moderate,Security,Moderate,Moderate,"(Student, IT Trainee, Freelancer)",30000-100000
+Bhosari,Indrayani Nagar,Pune,Apartment,6800000,1100,2,6182,18000,4,3,Moderate,Parking,Moderate,Moderate,"(Factory Worker, Supervisor, Shop Owner)",50000-150000
+Alandi,Dehu Phata,Pune,Apartment,6200000,1050,2,5905,16000,4,3,Moderate,Security,Moderate,Moderate,"(Priest, Shopkeeper, Event Organizer)",50000-120000
+Pimpri,Sant Tukaram Nagar,Pune,Apartment,7800000,1250,3,6240,22000,6,4,Moderate,Gym,Moderate,Moderate,"(Marketing Manager, IT Support, Financial Advisor)",60000-140000
+Chinchwad,Chapekar Chowk,Pune,Apartment,9200000,1250,3,7360,27000,6,5,High,Gated Community,High,Low,"(IT Manager, Financial Analyst, Professor)",80000-200000
+Nigdi,Pradhikaran,Pune,Apartment,8900000,1200,3,7417,26000,5,4,High,Gated Society,High,Low,"(Retail Manager, HR Executive, Civil Engineer)",70000-180000
+Katraj,Katraj Dairy Area,Pune,Apartment,7200000,1100,2,6545,18000,4,3,Moderate,Parking,Moderate,Moderate,"(Business Owner, Pharmacist, Fitness Trainer)",70000-200000
+Kondhwa,Kausar Baug,Pune,Apartment,9800000,1300,3,7538,27000,6,5,High,Gated Society,High,Low,"(Doctor, Digital Marketer, Business Consultant)",100000-300000
+Wanowrie,Salunke Vihar Road,Pune,Apartment,10500000,1400,3,7500,30000,6,5,Very High,Security,High,Low,"(Software Engineer, Consultant, Entrepreneur)",100000-300000
+Saswad,Near Purandar Fort,Pune,Villa,22000000,3800,5,5789,75000,8,7,High,Garden,High,Low,"(Retired Professional, Politician, Environmentalist)",300000+
+Uruli Kanchan,Near Railway Station,Pune,Apartment,5400000,950,2,5684,14000,3,2,Moderate,Gated Society,Moderate,Moderate,"(Shop Owner, Agri Consultant, Technician)",40000-120000
+Yewalewadi,Near Katraj,Pune,Apartment,6200000,1100,2,5636,16000,4,3,Moderate,Security,Moderate,Moderate,"(Construction Worker, Mechanic, Teacher)",50000-150000
+Dighi,Near Dighi Hills,Pune,Apartment,6700000,1100,3,6091,18000,4,3,Moderate,Security,Moderate,Moderate,"(Software Developer, Marketing Professional, HR Manager)",60000-150000
+Manjari,Near Manjari Stud Farm,Pune,Apartment,8700000,1200,3,7250,25000,6,5,High,Gym,High,Low,"(Doctor, Consultant, Real Estate Agent)",100000-500000
+Shirwal,Near Khandala MIDC,Pune,Apartment,7200000,1100,2,6545,18000,4,3,Moderate,Parking,Moderate,Moderate,"(Industrial Worker, Store Manager, IT Support)",60000-150000
+Phursungi,Near Hadapsar,Pune,Apartment,6700000,1100,3,6091,18000,4,3,Moderate,Security,Moderate,Moderate,"(Software Developer, Marketing Professional, HR Manager)",60000-150000
+Bavdhan,Near Chandni Chowk,Pune,Apartment,10500000,1400,3,7500,30000,6,5,Very High,Security,High,Low,"(Software Engineer, Consultant, Entrepreneur)",100000-300000
+Mulshi,Near Pirangut,Pune,Villa,28000000,4200,5,6667,95000,9,8,Very High,Swimming Pool,Very High,Low,"(Hotel Owner, Film Producer, CEO)",500000+
+Lavasa,Lakeside Area,Pune,Villa,35000000,5000,6,7000,120000,9,8,Very High,Private Dock,Very High,Low,"(Business Tycoon, Investor, Diplomat)",600000+
+Shivajinagar,Model Colony,Pune,Apartment,14500000,1350,3,10741,42000,8,7,Very High,Gated Community,Very High,Low,"(Lawyer, Investment Banker, Professor)",180000-600000
+Kondhwa,NIBM Road,Pune,Apartment,9800000,1400,3,7000,27000,6,5,High,Gym,High,Low,"(Software Engineer, HR Manager, Digital Marketer)",100000-300000
+Lohegaon,Airport Road,Pune,Apartment,7200000,1100,2,6545,18000,4,3,Moderate,Parking,Moderate,Moderate,"(Pilot, Air Traffic Controller, Security Analyst)",70000-250000
+BT Kawade Road,Ganga Satellite,Pune,Apartment,11500000,1300,3,8846,35000,7,6,Very High,Clubhouse,Very High,Low,"(IT Consultant, Senior Analyst, Doctor)",150000-450000
+Warje,Atul Nagar,Pune,Apartment,7600000,1200,2,6333,22000,5,4,Moderate,Security,Moderate,Moderate,"(Teacher, Sales Manager, Architect)",60000-180000
+Vadgaon Budruk,Sinhagad Road,Pune,Apartment,8500000,1300,3,6538,25000,6,5,High,Gated Society,High,Low,"(Finance Executive, Consultant, Lawyer)",80000-250000
+Pashan,Pashan Sus Road,Pune,Apartment,11200000,1450,3,7724,33000,7,6,High,Clubhouse,High,Low,"(Professor, Data Scientist, Entrepreneur)",150000-500000
+Bhugaon,Near Manas Lake,Pune,Apartment,9500000,1400,3,6785,28000,5,4,Moderate,Parking,Moderate,Moderate,"(Bank Manager, Investment Advisor, Consultant)",90000-300000
+Chakan,Chakan MIDC,Pune,Apartment,7800000,1200,3,6500,22000,5,4,Moderate,Gated Security,Moderate,Moderate,"(Factory Manager, Engineer, Technician)",70000-200000
+Talegaon Dabhade,Near Talegaon Station,Pune,Apartment,6200000,1100,2,5636,16000,4,3,Moderate,Security,Moderate,Moderate,"(Mechanical Engineer, Logistic Manager, Teacher)",50000-150000
+Lonavala,Tungarli,Lonavala,Villa,28500000,4000,5,7125,95000,9,8,Very High,Swimming Pool,Very High,Low,"(Entrepreneur, Hotelier, Bollywood Executive)",500000+
+Kamshet,Kamshet Hills,Pune,Villa,31000000,4200,5,7381,98000,8,7,Very High,Gym,Very High,Low,"(Retired Industrialist, Investor, Director)",500000+
+Charoli,Near DY Patil College,Pune,Apartment,5600000,1000,2,5600,15000,3,2,Moderate,Security,Moderate,Moderate,"(Student, IT Trainee, Freelancer)",30000-100000
+Bhosari,Indrayani Nagar,Pune,Apartment,6800000,1100,2,6182,18000,4,3,Moderate,Parking,Moderate,Moderate,"(Factory Worker, Supervisor, Shop Owner)",50000-150000
+Alandi,Dehu Phata,Pune,Apartment,6200000,1050,2,5905,16000,4,3,Moderate,Security,Moderate,Moderate,"(Priest, Shopkeeper, Event Organizer)",50000-120000
+Pimpri,Sant Tukaram Nagar,Pune,Apartment,7800000,1250,3,6240,22000,6,4,Moderate,Gym,Moderate,Moderate,"(Marketing Manager, IT Support, Financial Advisor)",60000-140000
+Chinchwad,Chapekar Chowk,Pune,Apartment,9200000,1250,3,7360,27000,6,5,High,Gated Community,High,Low,"(IT Manager, Financial Analyst, Professor)",80000-200000
+Nigdi,Pradhikaran,Pune,Apartment,8900000,1200,3,7417,26000,5,4,High,Gated Society,High,Low,"(Retail Manager, HR Executive, Civil Engineer)",70000-180000
+Katraj,Katraj Dairy Area,Pune,Apartment,7200000,1100,2,6545,18000,4,3,Moderate,Parking,Moderate,Moderate,"(Business Owner, Pharmacist, Fitness Trainer)",70000-200000
+Kondhwa,Kausar Baug,Pune,Apartment,9800000,1300,3,7538,27000,6,5,High,Gated Society,High,Low,"(Doctor, Digital Marketer, Business Consultant)",100000-300000
+Wanowrie,Salunke Vihar Road,Pune,Apartment,10500000,1400,3,7500,30000,6,5,Very High,Security,High,Low,"(Software Engineer, Consultant, Entrepreneur)",100000-300000
+Saswad,Near Purandar Fort,Pune,Villa,22000000,3800,5,5789,75000,8,7,High,Garden,High,Low,"(Retired Professional, Politician, Environmentalist)",300000+
+Uruli Kanchan,Near Railway Station,Pune,Apartment,5400000,950,2,5684,14000,3,2,Moderate,Gated Society,Moderate,Moderate,"(Shop Owner, Agri Consultant, Technician)",40000-120000
+Yewalewadi,Near Katraj,Pune,Apartment,6200000,1100,2,5636,16000,4,3,Moderate,Security,Moderate,Moderate,"(Construction Worker, Mechanic, Teacher)",50000-150000
+Dighi,Near Dighi Hills,Pune,Apartment,6700000,1100,3,6091,18000,4,3,Moderate,Security,Moderate,Moderate,"(Software Developer, Marketing Professional, HR Manager)",60000-150000
+Manjari,Near Manjari Stud Farm,Pune,Apartment,8700000,1200,3,7250,25000,6,5,High,Gym,High,Low,"(Doctor, Consultant, Real Estate Agent)",100000-500000
+Shirwal,Near Khandala MIDC,Pune,Apartment,7200000,1100,2,6545,18000,4,3,Moderate,Parking,Moderate,Moderate,"(Industrial Worker, Store Manager, IT Support)",60000-150000
+Phursungi,Near Hadapsar,Pune,Apartment,6700000,1100,3,6091,18000,4,3,Moderate,Security,Moderate,Moderate,"(Software Developer, Marketing Professional, HR Manager)",60000-150000
+Bavdhan,Near Chandni Chowk,Pune,Apartment,10500000,1400,3,7500,30000,6,5,Very High,Security,High,Low,"(Software Engineer, Consultant, Entrepreneur)",100000-300000
+Mulshi,Near Pirangut,Pune,Villa,28000000,4200,5,6667,95000,9,8,Very High,Swimming Pool,Very High,Low,"(Hotel Owner, Film Producer, CEO)",500000+
+Lavasa,Lakeside Area,Pune,Villa,35000000,5000,6,7000,120000,9,8,Very High,Private Dock,Very High,Low,"(Business Tycoon, Investor, Diplomat)",600000+
+Model Colony,Near Lakaki Road,Pune,Apartment,19500000,1700,3,11471,55000,9,8,Very High,Gated Security,Very High,Low,"(Doctor, Investment Banker, High Court Lawyer)",250000-800000
+Deccan Gymkhana,Goodluck Chowk,Pune,Apartment,17800000,1650,3,10788,52000,9,8,Very High,Clubhouse,Very High,Low,"(Professor, Senior Journalist, Business Owner)",200000-700000
+Deccan Gymkhana,Bhandarkar Road,Pune,Apartment,18200000,1700,3,10706,54000,9,8,Very High,Swimming Pool,Very High,Low,"(Advocate, Author, Consultant)",200000-600000
+Sadashiv Peth,Appa Balwant Chowk,Pune,Apartment,12500000,1400,3,8929,35000,8,7,High,Gated Society,High,Low,"(Chartered Accountant, Sanskrit Scholar, Politician)",150000-500000
+Parvati,Near Parvati Hill,Pune,Apartment,11500000,1350,3,8519,33000,7,6,High,Parking,High,Low,"(Researcher, Civil Engineer, Artist)",120000-400000
+Swargate,Near ST Bus Stand,Pune,Apartment,10200000,1250,3,8160,29000,7,6,High,Gym,High,Low,"(Software Developer, Marketing Executive, Government Employee)",100000-350000
+Katraj,Near Rajiv Gandhi Zoo,Pune,Apartment,7500000,1200,2,6250,21000,6,5,Moderate,Gated Security,Moderate,Moderate,"(IT Technician, Teacher, Freelance Designer)",60000-150000
+NIBM,Kondhwa Road,Pune,Apartment,13500000,1450,3,9310,37000,7,6,High,Swimming Pool,High,Low,"(Entrepreneur, Architect, Senior Software Engineer)",150000-500000
+Undri,Near Corinthians Club,Pune,Apartment,9800000,1300,3,7538,28000,6,5,High,Clubhouse,High,Low,"(Real Estate Agent, Financial Consultant, IT Manager)",100000-300000
+Bibwewadi,Market Yard Road,Pune,Apartment,8900000,1250,3,7120,26000,6,5,High,Security,High,Low,"(Chartered Accountant, Doctor, Sales Manager)",100000-350000
+Dhankawadi,Near Rajiv Gandhi IT Park,Pune,Apartment,7200000,1150,2,6261,19000,5,4,Moderate,Parking,Moderate,Moderate,"(IT Support, HR Manager, Bank Clerk)",60000-150000
+Warje,Behind Sinhagad Institute,Pune,Apartment,8100000,1300,3,6231,23000,6,5,High,Gated Society,High,Low,"(Mechanical Engineer, Retail Manager, Interior Designer)",100000-250000
+Dhayari,Near DSK Vishwa,Pune,Apartment,7400000,1250,3,5920,22000,5,4,Moderate,Gym,Moderate,Moderate,"(Government Employee, Lecturer, Business Consultant)",80000-200000
+Vadgaon Budruk,Near Sinhagad Road,Pune,Apartment,7800000,1200,3,6500,23000,6,5,Moderate,Security,Moderate,Moderate,"(Automobile Engineer, Marketing Professional, Teacher)",70000-180000
+Manjri,Near Manjri Greens,Pune,Apartment,6600000,1100,2,6000,17500,4,3,Moderate,Parking,Moderate,Moderate,"(Freelancer, Accountant, IT Trainee)",50000-150000
+Lohegaon,Near Pune Airport,Pune,Apartment,8000000,1250,3,6400,24000,5,4,High,Gated Security,High,Low,"(Pilot, Airport Staff, Software Engineer)",100000-300000
+Charholi,Near Alandi Road,Pune,Apartment,6700000,1200,2,5583,18000,4,3,Moderate,Gated Society,Moderate,Moderate,"(Pharmacist, IT Technician, Consultant)",70000-200000
+Kondhwa,Near ISKCON Temple,Pune,Apartment,10200000,1350,3,7556,29000,7,6,High,Clubhouse,High,Low,"(Software Developer, Marketing Executive, Real Estate Agent)",100000-350000
+Handewadi,Near SP Infocity,Pune,Apartment,7300000,1150,2,6348,19500,5,4,Moderate,Security,Moderate,Moderate,"(IT Support, Lecturer, Graphic Designer)",60000-150000
+Fursungi,Near Hadapsar Industrial Area,Pune,Apartment,6200000,1050,2,5905,16000,4,3,Moderate,Parking,Moderate,Moderate,"(Mechanical Engineer, HR Executive, Factory Supervisor)",50000-120000
+Khed,Near Chakan MIDC,Pune,Apartment,6500000,1100,2,5909,17000,4,3,Moderate,Gated Society,Moderate,Moderate,"(Manufacturing Engineer, Logistics Manager, Factory Owner)",60000-150000
+Pimpri,Pimpri Chowk,Pune,Apartment,9200000,1300,3,7077,27000,6,5,High,Gated Community,High,Low,"(Sales Manager, IT Manager, Consultant)",100000-300000
+Chinchwad,Opposite Elpro Mall,Pune,Apartment,8800000,1250,3,7040,26000,6,5,High,Gym,High,Low,"(Software Engineer, IT Consultant, Senior Analyst)",100000-300000
+Talegaon,Dabhade,Pune,Apartment,6500000,1100,2,5909,17000,4,3,Moderate,Parking,Moderate,Moderate,"(Automobile Engineer, Marketing Manager, Retail Executive)",60000-150000
+Alandi,Near Alandi Temple,Pune,Apartment,5900000,1000,2,5900,15000,4,3,Moderate,Gated Security,Moderate,Moderate,"(Priest, Teacher, Civil Engineer)",50000-120000
+Bhosari,Near Nashik Highway,Pune,Apartment,7400000,1200,3,6167,22000,5,4,Moderate,Security,Moderate,Moderate,"(Industrialist, Mechanical Engineer, Consultant)",80000-250000
+Lavasa,Lakeside Road,Pune,Villa,37000000,5500,5,6727,130000,9,8,Very High,Swimming Pool,Very High,Low,"(International Businessman, Hotel Owner, Politician)",700000+
+Lonavala,Near Bhushi Dam,Pune,Villa,45000000,6000,6,7500,150000,10,9,Very High,Garden,Very High,Low,"(Bollywood Actor, Hotelier, Sports Personality)",1000000+
+Kamshet,Near Pawna Lake,Pune,Villa,28000000,4500,5,6222,95000,9,8,High,Swimming Pool,High,Low,"(Corporate Executive, Business Owner, Influencer)",400000+
+Shivajinagar,Jangali Maharaj Road,Pune,Apartment,19500000,1750,3,11143,55000,9,8,Very High,Clubhouse,Very High,Low,"(Judge, Professor, Senior Engineer)",250000-800000
+Erandwane,Near Nal Stop,Pune,Apartment,17500000,1600,3,10938,50000,9,8,Very High,Gated Security,Very High,Low,"(Senior Lawyer, Architect, Doctor)",200000-700000
+Kothrud,Paud Road,Pune,Apartment,14000000,1500,3,9333,38000,8,7,High,Gym,High,Low,"(Senior IT Consultant, Business Owner, Chartered Accountant)",150000-600000
+Kothrud,MIT College Road,Pune,Apartment,13500000,1450,3,9310,37000,7,6,High,Swimming Pool,High,Low,"(Professor, Scientist, Research Analyst)",150000-500000
+Sinhagad Road,Manik Baug,Pune,Apartment,9800000,1350,3,7259,28000,6,5,High,Gated Society,High,Low,"(Marketing Executive, Government Officer, IT Manager)",100000-300000
+Sinhagad Road,Vadgaon Khurd,Pune,Apartment,8700000,1250,3,6960,25000,6,5,High,Security,High,Low,"(Civil Engineer, Consultant, Professor)",90000-250000
+Narhe,Opp DSK Vishwa,Pune,Apartment,7600000,1200,3,6333,21000,5,4,Moderate,Clubhouse,Moderate,Moderate,"(Mechanical Engineer, HR Executive, Software Developer)",70000-180000
+Ambegaon Budruk,Near Sinhagad College,Pune,Apartment,7400000,1150,2,6435,20000,4,3,Moderate,Gym,Moderate,Moderate,"(Lecturer, Marketing Professional, Consultant)",60000-150000
+Ambegaon Khurd,Near Bharti Vidyapeeth,Pune,Apartment,6800000,1100,2,6182,18500,4,3,Moderate,Parking,Moderate,Moderate,"(College Professor, Accountant, Government Clerk)",50000-150000
+Daund,Near Railway Station,Pune,Apartment,5600000,1000,2,5600,14000,3,2,Moderate,Gated Society,Moderate,Moderate,"(Factory Worker, Engineer, Hotel Manager)",40000-120000
+Jejuri,Near MIDC Industrial Area,Pune,Apartment,5200000,950,2,5474,13000,3,2,Moderate,Security,Moderate,Moderate,"(Manufacturing Supervisor, Industrial Consultant, Retailer)",40000-100000
+Baramati,Near Bhigwan Road,Pune,Apartment,5900000,1100,2,5364,15000,3,2,Moderate,Parking,Moderate,Moderate,"(Farmer, Bank Manager, Small Business Owner)",45000-120000
+Shirur,Near Ranjangaon MIDC,Pune,Apartment,6100000,1050,2,5809,16000,4,3,Moderate,Gated Society,Moderate,Moderate,"(Automobile Engineer, Factory Supervisor, IT Technician)",60000-150000
+Chakan,Near Bajaj Auto Plant,Pune,Apartment,7500000,1200,3,6250,20000,5,4,Moderate,Security,Moderate,Moderate,"(Industrialist, Supply Chain Manager, Business Owner)",70000-200000
+Talegaon Dabhade,Near Talegaon MIDC,Pune,Apartment,7200000,1150,3,6261,19500,5,4,Moderate,Clubhouse,Moderate,Moderate,"(Logistics Manager, Software Developer, Mechanical Engineer)",60000-150000
+Rajgurunagar,Near Pune-Nashik Highway,Pune,Apartment,6500000,1100,2,5909,17000,4,3,Moderate,Gym,Moderate,Moderate,"(Transport Business Owner, Factory Supervisor, IT Consultant)",60000-150000
+Wagholi,Lake Residency Area,Pune,Apartment,5700000,1000,2,5700,15000,3,2,Moderate,Parking,Moderate,Moderate,"(Sales Executive, Software Developer, Civil Engineer)",50000-120000
+Ranjangaon,Near MIDC Industrial Zone,Pune,Apartment,6300000,1050,2,6000,16500,4,3,Moderate,Gated Society,Moderate,Moderate,"(Industrial Engineer, Manager, Production Head)",60000-150000
+Lavale,Near Symbiosis University,Pune,Apartment,8300000,1200,3,6917,23000,5,4,Moderate,Security,Moderate,Moderate,"(Professor, Research Scientist, College Dean)",80000-200000
+Uruli Kanchan,Near Ayurvedic Institute,Pune,Apartment,6400000,1100,2,5818,17000,4,3,Moderate,Clubhouse,Moderate,Moderate,"(Ayurvedic Doctor, Teacher, Pharmacist)",60000-150000
+Lonikand,Near Markal Road,Pune,Apartment,6100000,1050,2,5809,16000,4,3,Moderate,Security,Moderate,Moderate,"(Retail Manager, HR Professional, Business Consultant)",50000-120000
+Alandi,Near Dehu Road,Pune,Apartment,5500000,1000,2,5500,14000,3,2,Moderate,Parking,Moderate,Moderate,"(Temple Priest, Professor, Civil Engineer)",40000-120000
+Hadapsar,Near SP Infocity,Pune,Apartment,12500000,1400,3,8929,35000,7,6,High,Swimming Pool,High,Low,"(Corporate Manager, Data Scientist, Software Engineer)",100000-500000
+Kharadi,Near World Trade Center,Pune,Apartment,11800000,1350,3,8741,34000,7,6,High,Gated Society,High,Low,"(Investment Banker, Business Consultant, IT Director)",150000-600000
+Magarpatta,Near Amanora Township,Pune,Apartment,13200000,1450,3,9103,37000,8,7,High,Clubhouse,High,Low,"(Real Estate Investor, Entrepreneur, Senior Consultant)",200000-700000
+Baner,Pancard Club Road,Pune,Apartment,14300000,1500,3,9533,39000,8,7,High,Swimming Pool,High,Low,"(Senior Developer, Product Manager, Startup Founder)",150000-500000
+Balewadi,Near Balewadi Stadium,Pune,Apartment,13500000,1400,3,9643,36000,7,6,High,Gym,High,Low,"(Athlete, Coach, Marketing Executive)",120000-400000
+Pimple Nilakh,Near Rakshak Chowk,Pune,Apartment,12500000,1300,3,9615,34000,7,6,High,Gated Community,High,Low,"(Bank Manager, Business Owner, IT Consultant)",100000-300000
+Pashan,Near Sus Road,Pune,Apartment,11800000,1350,3,8741,32000,7,6,High,Parking,High,Low,"(Scientist, Professor, Environmental Engineer)",120000-350000
+Bhugaon,Near Manas Lake,Pune,Apartment,9700000,1200,3,8083,28000,6,5,High,Security,High,Low,"(Ecologist, Architect, Resort Manager)",100000-250000
+Khadki,Near Railway Station,Pune,Apartment,7500000,1200,2,6250,20000,5,4,Moderate,Gated Society,Moderate,Moderate,"(Defense Personnel, Railway Officer, Small Business Owner)",70000-200000
+Khadki,Bopodi,Pune,Apartment,7200000,1100,2,6545,19000,4,3,Moderate,Security,Moderate,Moderate,"(Teacher, Accountant, Software Developer)",60000-150000
+Viman Nagar,Lane 5,Pune,Apartment,14500000,1500,3,9667,40000,8,7,Very High,Gym,Very High,Low,"(Pilot, IT Consultant, Business Owner)",200000-600000
+Viman Nagar,Konark Campus,Pune,Apartment,14000000,1400,3,10000,39000,7,6,High,Clubhouse,High,Low,"(Hotel Manager, Air Hostess, Digital Marketer)",150000-500000
+Dighi,Near Alandi Road,Pune,Apartment,6300000,1100,2,5727,16000,4,3,Moderate,Security,Moderate,Moderate,"(Bank Clerk, Technician, Sales Executive)",50000-120000
+Dighi,BSF Colony,Pune,Apartment,6100000,1050,2,5809,15000,4,3,Moderate,Parking,Moderate,Moderate,"(Government Officer, Army Personnel, Trader)",50000-150000
+Lohegaon,Near Airport Road,Pune,Apartment,6800000,1150,2,5913,17000,5,4,Moderate,Gated Society,Moderate,Moderate,"(Airforce Officer, Ground Staff, Engineer)",60000-180000
+Lohegaon,Dhanori Road,Pune,Apartment,6400000,1100,2,5818,16500,4,3,Moderate,Gym,Moderate,Moderate,"(HR Manager, Graphic Designer, Consultant)",60000-150000
+Tingre Nagar,Near Vishrantwadi,Pune,Apartment,7800000,1200,3,6500,20000,6,5,High,Security,High,Low,"(Software Developer, Doctor, CA)",80000-300000
+Tingre Nagar,Airport View Society,Pune,Apartment,7600000,1150,3,6609,19000,5,4,High,Gated Community,High,Low,"(Government Officer, Business Owner, Engineer)",70000-200000
+Bhosari,Near Nashik Phata,Pune,Apartment,7100000,1100,2,6455,18000,5,4,Moderate,Parking,Moderate,Moderate,"(Industrial Worker, Shop Owner, Engineer)",60000-150000
+Bhosari,Landewadi,Pune,Apartment,6900000,1050,2,6571,17500,4,3,Moderate,Clubhouse,Moderate,Moderate,"(Factory Supervisor, Civil Engineer, Teacher)",50000-140000
+Moshi,Near Spine Road,Pune,Apartment,7300000,1150,3,6348,19000,5,4,Moderate,Security,Moderate,Moderate,"(Logistics Manager, IT Technician, Business Consultant)",60000-170000
+Moshi,PCMC Industrial Area,Pune,Apartment,7100000,1100,2,6455,18000,4,3,Moderate,Gym,Moderate,Moderate,"(Automobile Engineer, IT Support, Retailer)",60000-150000
+Nigdi,Near Bhakti Shakti Chowk,Pune,Apartment,8200000,1250,3,6560,23000,6,5,High,Gated Society,High,Low,"(Professor, IT Professional, Marketing Manager)",80000-250000
+Nigdi,Pradhikaran,Pune,Apartment,8700000,1300,3,6692,25000,7,6,High,Swimming Pool,High,Low,"(Software Engineer, Real Estate Agent, Consultant)",90000-300000
+Dehuroad,Near Cantonment Area,Pune,Apartment,5900000,1050,2,5619,16000,4,3,Moderate,Parking,Moderate,Moderate,"(Defense Employee, Government Officer, Technician)",50000-140000
+Dehuroad,Ammunition Factory Road,Pune,Apartment,5700000,1000,2,5700,15000,4,3,Moderate,Gated Society,Moderate,Moderate,"(Army Officer, Policeman, Clerk)",50000-120000
+Hadapsar,Near Amanora Mall,Pune,Apartment,13500000,1500,3,9000,37000,8,7,Very High,Clubhouse,Very High,Low,"(Investment Banker, Senior Executive, IT Director)",200000-700000
+Hadapsar,Fursungi,Pune,Apartment,7400000,1150,2,6435,19000,5,4,Moderate,Gym,Moderate,Moderate,"(Retail Manager, Government Employee, Teacher)",60000-150000
+Phursungi,Near IT Park,Pune,Apartment,6900000,1100,2,6273,17000,5,4,Moderate,Security,Moderate,Moderate,"(Bank Manager, Civil Engineer, HR Executive)",60000-150000
+Wanowrie,NIBM Road,Pune,Apartment,12500000,1450,3,8621,35000,7,6,High,Gated Society,High,Low,"(Doctor, Business Consultant, Senior IT Professional)",150000-500000
+Wanowrie,Salunke Vihar,Pune,Apartment,12000000,1400,3,8571,34000,7,6,High,Clubhouse,High,Low,"(Lawyer, Architect, Financial Analyst)",150000-450000
+Kondhwa,Near Kausar Baug,Pune,Apartment,9300000,1250,3,7440,28000,6,5,High,Security,High,Low,"(IT Consultant, Entrepreneur, Business Owner)",100000-400000
+Kondhwa,Near Mohammadwadi,Pune,Apartment,8800000,1200,3,7333,27000,6,5,High,Swimming Pool,High,Low,"(Doctor, Lawyer, Software Engineer)",100000-350000
+Bhigwan,Near Bhima River,Pune,Villa,6800000,2500,4,2720,18000,4,3,Moderate,Private Garden,Moderate,Moderate,"(Farmer, Factory Owner, Retailer)",50000-150000
+Shirwal,Near MIDC Industrial Area,Pune,Apartment,6000000,1100,2,5455,16000,4,3,Moderate,Gated Society,Moderate,Moderate,"(Industrial Engineer, Factory Supervisor, IT Consultant)",50000-140000
+Lonavala,Near Tungarli Lake,Pune,Villa,28000000,4000,5,7000,80000,9,8,Very High,Swimming Pool,Very High,Low,"(Celebrity, Business Tycoon, High Net Worth Individual)",500000+
+Lavasa,Near Dasve Town,Pune,Villa,25000000,3500,4,7143,75000,8,7,Very High,Private Lake Access,Very High,Low,"(Investor, Hotelier, Entrepreneur)",400000+
+Mulshi,Near Temghar Dam,Pune,Farmhouse,20000000,5000,4,4000,60000,8,7,Very High,Private Garden,Very High,Low,"(Agriculturalist, Business Owner, Celebrity)",300000+
+Hadapsar,Harpale Vasti,Pune,Apartment,6900000,1100,2,6273,18000,4,3,Moderate,Parking,Moderate,Moderate,"(Teacher, Accountant, Small Business Owner)",50000-150000
+Hadapsar,Bhekrai Nagar,Pune,Apartment,6200000,1050,2,5905,16000,3,3,Moderate,Gym,Moderate,Moderate,"(Retailer, Sales Executive, Technician)",50000-120000
+Hadapsar,Kalepadal,Pune,Apartment,7100000,1150,2,6174,19000,5,4,Moderate,Security,Moderate,Moderate,"(Software Developer, Bank Clerk, Marketing Executive)",60000-150000
+Fursungi,Near Saswad Road,Pune,Apartment,6700000,1100,2,6091,17000,4,3,Moderate,Gated Society,Moderate,Moderate,"(Professor, Consultant, Small Business Owner)",60000-140000
+Fursungi,Sainath Nagar,Pune,Apartment,6900000,1150,2,6000,17500,4,3,Moderate,Gym,Moderate,Moderate,"(Retail Manager, Real Estate Broker, Graphic Designer)",60000-150000
+Manjri,Manjri Greens,Pune,Apartment,7800000,1200,3,6500,22000,5,4,High,Gated Security,High,Low,"(IT Engineer, Doctor, Chartered Accountant)",80000-250000
+Manjri,Borate Vasti,Pune,Apartment,7200000,1150,3,6261,20000,5,4,Moderate,Parking,Moderate,Moderate,"(Agriculturist, Industrial Worker, Freelancer)",50000-150000
+Uruli Kanchan,Near Railway Station,Pune,Apartment,6200000,1050,2,5905,16000,4,3,Moderate,Security,Moderate,Moderate,"(Farmer, Local Trader, Technician)",50000-120000
+Uruli Devachi,Garbage Depot Area,Pune,Apartment,6000000,1000,2,6000,15000,3,2,Moderate,None,Moderate,Moderate,"(Manual Laborer, Factory Worker, Small Shop Owner)",40000-100000
+Loni Kalbhor,Near College Road,Pune,Apartment,6500000,1100,2,5909,17000,4,3,Moderate,Gated Society,Moderate,Moderate,"(Professor, Lecturer, Research Scholar)",60000-140000
+Loni Kalbhor,Yewat Road,Pune,Apartment,6400000,1080,2,5926,16500,4,3,Moderate,Security,Moderate,Moderate,"(Farmer, Hardware Technician, Carpenter)",50000-130000
+Phursungi,Near SNBP School,Pune,Apartment,7100000,1150,2,6174,18000,5,4,Moderate,Gated Security,Moderate,Moderate,"(Real Estate Agent, Retailer, Shop Owner)",60000-150000
+Katraj,Katraj Dairy,Pune,Apartment,7500000,1200,3,6250,20000,5,4,Moderate,Security,Moderate,Moderate,"(Businessman, Contractor, Civil Engineer)",60000-200000
+Katraj,Ambegaon Budruk,Pune,Apartment,7800000,1250,3,6240,22000,6,4,Moderate,Clubhouse,Moderate,Moderate,"(IT Manager, Consultant, Financial Advisor)",70000-200000
+Narhe,Near Sinhagad College,Pune,Apartment,7200000,1150,3,6261,20000,5,4,Moderate,Gated Society,Moderate,Moderate,"(Software Engineer, Marketing Executive, Teacher)",60000-150000
+Narhe,Datta Nagar,Pune,Apartment,7000000,1100,2,6364,18000,4,3,Moderate,Parking,Moderate,Moderate,"(Sales Executive, HR Professional, Graphic Designer)",60000-140000
+Warje,Near NDA Road,Pune,Apartment,8800000,1300,3,6769,25000,7,6,High,Gym,High,Low,"(Doctor, Engineer, Business Consultant)",90000-300000
+Warje,Malwadi,Pune,Apartment,8500000,1250,3,6800,24000,6,5,High,Clubhouse,High,Low,"(IT Professional, Consultant, Financial Analyst)",80000-250000
+Vadgaon Budruk,Near Sinhagad Road,Pune,Apartment,7800000,1200,3,6500,22000,5,4,High,Parking,High,Low,"(Retail Manager, Government Employee, Teacher)",70000-180000
+Vadgaon Sheri,Mhada Colony,Pune,Apartment,9700000,1300,3,7462,28000,6,5,High,Gated Security,High,Low,"(IT Professional, Financial Analyst, Marketing Manager)",100000-300000
+Nanded,Near Nanded City Township,Pune,Apartment,8500000,1250,3,6800,24000,6,5,High,Gated Security,High,Low,"(Doctor, Engineer, Software Developer)",80000-300000
+Pirangut,Near Industrial Area,Pune,Apartment,6200000,1100,2,5636,16000,4,3,Moderate,Security,Moderate,Moderate,"(Factory Worker, Business Consultant, Sales Manager)",60000-150000
+Bhugaon,Near Bavdhan,Pune,Apartment,8500000,1250,3,6800,24000,6,5,High,Swimming Pool,High,Low,"(Corporate Professional, Consultant, Business Owner)",100000-400000
+Bhukum,Near Oxford Golf Resort,Pune,Villa,18000000,3000,4,6000,55000,8,7,Very High,Private Garden,Very High,Low,"(Investor, Entrepreneur, Business Tycoon)",300000+
+Mulshi,Near Temghar Dam,Pune,Farmhouse,21000000,5000,4,4200,60000,8,7,Very High,Private Garden,Very High,Low,"(Agriculturalist, Business Owner, Celebrity)",300000+
+Lavale,Near Symbiosis University,Pune,Apartment,7300000,1150,3,6348,19000,5,4,Moderate,Parking,Moderate,Moderate,"(Professor, Lecturer, Researcher)",60000-150000
+Jambhulwadi,Near Lake View Society,Pune,Apartment,6700000,1100,2,6091,17000,4,3,Moderate,Security,Moderate,Moderate,"(IT Technician, Small Business Owner, Teacher)",60000-140000
+Chakan,Near MIDC Industrial Area,Pune,Apartment,6400000,1080,2,5926,16500,4,3,Moderate,Gated Society,Moderate,Moderate,"(Industrial Engineer, Factory Supervisor, Technician)",50000-150000
+Ranjangaon,Near Industrial Park,Pune,Apartment,6000000,1050,2,5714,15000,4,3,Moderate,Security,Moderate,Moderate,"(Manufacturing Executive, Plant Manager, Electrician)",50000-140000
+Shikrapur,Near Nagar Road,Pune,Apartment,5700000,1000,2,5700,14000,3,2,Moderate,None,Moderate,Moderate,"(Shopkeeper, Farmer, Factory Worker)",40000-100000
+Hadapsar,Manjri Khurd,Pune,Apartment,6700000,1100,2,6091,17000,4,3,Moderate,Gated Society,Moderate,Moderate,"(Professor, Consultant, Small Business Owner)",60000-140000
+Hadapsar,Satav Nagar,Pune,Apartment,7200000,1150,3,6261,20000,5,4,Moderate,Parking,Moderate,Moderate,"(Agriculturist, Industrial Worker, Freelancer)",50000-150000
+Hadapsar,Vaibhav Nagar,Pune,Apartment,6900000,1100,2,6273,18000,4,3,Moderate,Parking,Moderate,Moderate,"(Teacher, Accountant, Small Business Owner)",50000-150000
+Kondhwa,Kausarbaugh,Pune,Apartment,7200000,1200,3,6000,19000,5,4,Moderate,Security,Moderate,Moderate,"(Doctor, Lawyer, Senior Consultant)",90000-300000
+Kondhwa,Tilekar Nagar,Pune,Apartment,7000000,1150,2,6087,17000,4,3,Moderate,Gym,Moderate,Moderate,"(Software Engineer, IT Consultant, Accountant)",60000-150000
+Kondhwa,Meeta Nagar,Pune,Apartment,7500000,1250,3,6000,20000,5,4,Moderate,Clubhouse,Moderate,Moderate,"(Marketing Manager, IT Support, Financial Advisor)",70000-180000
+Wanowrie,Fatima Nagar,Pune,Apartment,8700000,1300,3,6692,26000,6,5,High,Gated Society,High,Low,"(Software Developer, Consultant, Lawyer)",80000-250000
+Wanowrie,Sadar Bazaar,Pune,Apartment,8900000,1350,3,6593,27000,7,5,High,Security,High,Low,"(Business Owner, Military Personnel, Consultant)",90000-300000
+Katraj,Balaji Nagar,Pune,Apartment,7300000,1150,3,6348,19000,5,4,Moderate,Parking,Moderate,Moderate,"(Teacher, Marketing Professional, Civil Engineer)",60000-140000
+Ambegaon,Ashok Nagar,Pune,Apartment,7800000,1250,3,6240,22000,6,4,Moderate,Gym,Moderate,Moderate,"(IT Manager, Consultant, Financial Advisor)",70000-200000
+Ambegaon,Dattanagar,Pune,Apartment,7400000,1150,3,6435,20000,5,4,Moderate,Parking,Moderate,Moderate,"(Retail Manager, Government Employee, Teacher)",70000-180000
+Narhe,Kirkatwadi,Pune,Apartment,7100000,1150,3,6174,18000,5,4,Moderate,Parking,Moderate,Moderate,"(Real Estate Agent, Retailer, Shop Owner)",60000-150000
+Vadgaon Sheri,Chandan Nagar,Pune,Apartment,9600000,1350,3,7111,27000,6,5,High,Gated Security,High,Low,"(IT Professional, Financial Analyst, Marketing Manager)",100000-300000
+Wagholi,Ubale Nagar,Pune,Apartment,6800000,1100,2,6182,17000,4,3,Moderate,Gym,Moderate,Moderate,"(College Lecturer, Sales Executive, Graphic Designer)",50000-120000
+Wagholi,Lohegaon Road,Pune,Apartment,7200000,1200,3,6000,19000,5,4,Moderate,Security,Moderate,Moderate,"(Marketing Executive, HR Manager, Consultant)",60000-150000
+Lohegaon,Dhanori Jakat Naka,Pune,Apartment,7700000,1250,3,6160,20000,6,4,Moderate,Gated Security,Moderate,Moderate,"(Doctor, Consultant, Financial Advisor)",70000-200000
+Lohegaon,Porwal Road,Pune,Apartment,7800000,1250,3,6240,22000,6,4,Moderate,Parking,Moderate,Moderate,"(Software Engineer, Business Analyst, HR Executive)",80000-250000
+Kharadi,Yerwada Bridge Area,Pune,Apartment,12200000,1500,3,8133,39000,7,6,Very High,Gym,Very High,Low,"(Corporate Executive, IT Director, Business Owner)",200000-600000
+Yerwada,Tingre Nagar,Pune,Apartment,10500000,1400,3,7500,32000,6,5,High,Clubhouse,High,Low,"(Software Engineer, Consultant, Entrepreneur)",100000-300000
+Alandi,Dehu Road,Pune,Apartment,6200000,1100,2,5636,16000,4,3,Moderate,Security,Moderate,Moderate,"(Religious Worker, Farmer, Small Business Owner)",40000-100000
+Alandi,Charoli,Pune,Apartment,6400000,1150,2,5565,17000,4,3,Moderate,Gated Society,Moderate,Moderate,"(Factory Worker, Business Consultant, Sales Manager)",60000-150000
+Chakan,Khed Shivapur,Pune,Apartment,5900000,1000,2,5900,14000,3,2,Moderate,None,Moderate,Moderate,"(Manufacturing Executive, Plant Manager, Electrician)",50000-140000
+Shirur,Near Pune-Nagar Road,Pune,Apartment,5700000,1000,2,5700,14000,3,2,Moderate,None,Moderate,Moderate,"(Shopkeeper, Farmer, Factory Worker)",40000-100000
+Pirangut,Near Industrial Area,Pune,Apartment,6200000,1100,2,5636,16000,4,3,Moderate,Security,Moderate,Moderate,"(Factory Worker, Business Consultant, Sales Manager)",60000-150000
+Bhugaon,NDA Road,Pune,Apartment,8500000,1250,3,6800,24000,6,5,High,Swimming Pool,High,Low,"(Corporate Professional, Consultant, Business Owner)",100000-400000
+Bhukum,Near Golf Course,Pune,Villa,18000000,3000,4,6000,55000,8,7,Very High,Private Garden,Very High,Low,"(Investor, Entrepreneur, Business Tycoon)",300000+
+Mulshi,Near Temghar Dam,Pune,Farmhouse,21000000,5000,4,4200,60000,8,7,Very High,Private Garden,Very High,Low,"(Agriculturalist, Business Owner, Celebrity)",300000+
+Lavale,Near Symbiosis University,Pune,Apartment,7300000,1150,3,6348,19000,5,4,Moderate,Parking,Moderate,Moderate,"(Professor, Lecturer, Researcher)",60000-150000
+Jambhulwadi,Near Lake View Society,Pune,Apartment,6700000,1100,2,6091,17000,4,3,Moderate,Security,Moderate,Moderate,"(IT Technician, Small Business Owner, Teacher)",60000-140000
+Ranjangaon,Near Industrial Park,Pune,Apartment,6000000,1050,2,5714,15000,4,3,Moderate,Security,Moderate,Moderate,"(Manufacturing Executive, Plant Manager, Electrician)",50000-140000
+Katraj,Katraj Dairy,Pune,Apartment,6900000,1100,2,6273,18000,4,3,Moderate,Gated Society,Moderate,Moderate,"(Teacher, Accountant, Small Business Owner)",50000-150000
+Katraj,Anandi Vihar,Pune,Apartment,7200000,1150,3,6261,20000,5,4,Moderate,Parking,Moderate,Moderate,"(Agriculturist, Industrial Worker, Freelancer)",50000-150000
+Bibwewadi,Upper Indiranagar,Pune,Apartment,7700000,1250,3,6160,22000,6,4,Moderate,Gated Security,Moderate,Moderate,"(Doctor, Consultant, Financial Advisor)",70000-200000
+Bibwewadi,Mukund Nagar,Pune,Apartment,8900000,1350,3,6593,27000,7,5,High,Security,High,Low,"(Business Owner, Military Personnel, Consultant)",90000-300000
+Vadgaon Sheri,Nagar Road,Pune,Apartment,9500000,1300,3,7308,27000,6,5,High,Gated Security,High,Low,"(IT Professional, Financial Analyst, Marketing Manager)",100000-300000
+Dhayari,Dhayari Phata,Pune,Apartment,7200000,1200,3,6000,19000,5,4,Moderate,Security,Moderate,Moderate,"(Marketing Executive, HR Manager, Consultant)",60000-150000
+Dhayari,Chavan Baug,Pune,Apartment,7400000,1150,3,6435,20000,5,4,Moderate,Parking,Moderate,Moderate,"(Retail Manager, Government Employee, Teacher)",70000-180000
+Hingne Khurd,Near MIT College,Pune,Apartment,8100000,1200,3,6750,24000,6,5,High,Gated Security,High,Low,"(Professor, Lawyer, Senior Executive)",90000-350000
+Sinhagad Road,Manik Baug,Pune,Apartment,8300000,1250,3,6640,25000,6,5,High,Clubhouse,High,Low,"(Corporate Employee, Doctor, Engineer)",100000-400000
+Narhe,Ambegaon Budruk,Pune,Apartment,7100000,1150,3,6174,18000,5,4,Moderate,Parking,Moderate,Moderate,"(Real Estate Agent, Retailer, Shop Owner)",60000-150000
+Fursungi,Near MIDC,Pune,Apartment,6700000,1100,2,6091,17000,4,3,Moderate,Security,Moderate,Moderate,"(Factory Worker, Sales Manager, Consultant)",50000-140000
+Fursungi,Handewadi Road,Pune,Apartment,6900000,1150,3,6000,18000,5,4,Moderate,Parking,Moderate,Moderate,"(Software Engineer, Business Consultant, HR Manager)",60000-180000
+Phursungi,Autocluster Area,Pune,Apartment,6300000,1050,2,6000,15000,4,3,Moderate,Security,Moderate,Moderate,"(Manufacturing Engineer, Technician, Small Business Owner)",50000-120000
+Uruli Kanchan,Near Railway Station,Pune,Apartment,5900000,1000,2,5900,14000,3,2,Moderate,None,Moderate,Moderate,"(Farmer, Shopkeeper, Factory Worker)",40000-100000
+Lonikand,Near Ranjangaon Industrial Area,Pune,Apartment,5700000,1000,2,5700,14000,3,2,Moderate,None,Moderate,Moderate,"(Shopkeeper, Farmer, Factory Worker)",40000-100000
+Hadapsar,Bhekrai Nagar,Pune,Apartment,7100000,1150,3,6174,18000,5,4,Moderate,Parking,Moderate,Moderate,"(IT Technician, Small Business Owner, Teacher)",60000-140000
+Hadapsar,Kalepadal,Pune,Apartment,7200000,1200,3,6000,19000,5,4,Moderate,Security,Moderate,Moderate,"(Marketing Executive, HR Manager, Consultant)",60000-150000
+Hadapsar,Harpale Vasti,Pune,Apartment,7500000,1250,3,6000,20000,5,4,Moderate,Clubhouse,Moderate,Moderate,"(Marketing Manager, IT Support, Financial Advisor)",70000-180000
+Magarpatta,South Gate,Pune,Apartment,12500000,1400,3,8571,38000,7,6,Very High,Clubhouse,Very High,Low,"(Corporate Executive, IT Director, Business Owner)",200000-600000
+Mundhwa,Keshav Nagar,Pune,Apartment,10500000,1400,3,7500,30000,6,5,Very High,Security,High,Low,"(Software Engineer, Consultant, Entrepreneur)",100000-300000
+Kharadi,EON IT Park,Pune,Apartment,11500000,1400,3,8214,35000,7,6,Very High,Gated Community,Very High,Low,"(Software Engineer, Investment Banker, Startup Founder)",150000-500000
+Ravet,Dehu Road,Pune,Apartment,7000000,1100,2,6364,18000,4,3,Moderate,Parking,Moderate,Moderate,"(Sales Manager, Software Developer, Consultant)",70000-180000
+Pashan,Near Balaji Temple,Pune,Apartment,8800000,1300,3,6769,25000,6,5,High,Gym,High,Low,"(Scientist, Senior Consultant, Investment Banker)",150000-600000
+Pashan,Sus Road,Pune,Apartment,9200000,1400,3,6571,27000,6,5,High,Swimming Pool,High,Low,"(Researcher, Corporate Executive, Professor)",120000-500000
+Alandi,Charoli BK,Pune,Apartment,6400000,1150,2,5565,17000,4,3,Moderate,Gated Society,Moderate,Moderate,"(Factory Worker, Business Consultant, Sales Manager)",60000-150000
+Bhosari,Indrayani Nagar,Pune,Apartment,6800000,1100,2,6182,17000,4,3,Moderate,Gym,Moderate,Moderate,"(College Lecturer, Sales Executive, Graphic Designer)",50000-120000
+Chakan,Khed Shivapur,Pune,Apartment,5900000,1000,2,5900,14000,3,2,Moderate,None,Moderate,Moderate,"(Manufacturing Executive, Plant Manager, Electrician)",50000-140000
+Shirur,Near Pune-Nagar Road,Pune,Apartment,5700000,1000,2,5700,14000,3,2,Moderate,None,Moderate,Moderate,"(Shopkeeper, Farmer, Factory Worker)",40000-100000
+Mulshi,Near Temghar Dam,Pune,Farmhouse,21000000,5000,4,4200,60000,8,7,Very High,Private Garden,Very High,Low,"(Agriculturalist, Business Owner, Celebrity)",300000+
+Lavale,Near Symbiosis University,Pune,Apartment,7300000,1150,3,6348,19000,5,4,Moderate,Parking,Moderate,Moderate,"(Professor, Lecturer, Researcher)",60000-150000
+Jambhulwadi,Near Lake View Society,Pune,Apartment,6700000,1100,2,6091,17000,4,3,Moderate,Security,Moderate,Moderate,"(IT Technician, Small Business Owner, Teacher)",60000-140000
+Yewalewadi,Kondhwa Annexe,Pune,Apartment,6500000,1150,2,5652,16000,4,3,Moderate,Gated Community,Moderate,Moderate,"(Teacher, Factory Worker, Freelancer)",50000-120000
+Undri,Near Bishop’s School,Pune,Apartment,9000000,1300,3,6923,25000,6,5,High,Gym,High,Low,"(Software Engineer, Architect, HR Manager)",80000-250000
+Mohamadwadi,NIBM Annexe,Pune,Apartment,9500000,1400,3,6786,28000,6,5,High,Gated Security,High,Low,"(Consultant, Banker, IT Director)",150000-400000
+Pisoli,Near Jambhulwadi Lake,Pune,Apartment,7800000,1250,3,6240,22000,5,4,Moderate,Parking,Moderate,Moderate,"(Marketing Executive, Business Analyst, Lecturer)",60000-150000
+Manjri,Bhekrai Nagar,Pune,Apartment,7200000,1200,3,6000,19000,5,4,Moderate,Security,Moderate,Moderate,"(Doctor, Consultant, Financial Advisor)",70000-200000
+Handewadi,Near Hadapsar Industrial Area,Pune,Apartment,6900000,1150,3,6000,18000,5,4,Moderate,Clubhouse,Moderate,Moderate,"(Sales Manager, IT Professional, Retail Executive)",70000-180000
+Fursungi,Near SP Infocity,Pune,Apartment,6700000,1100,2,6091,17000,4,3,Moderate,Security,Moderate,Moderate,"(Accountant, Business Owner, Security Manager)",60000-150000
+Vadgaon Budruk,Sinhagad Road,Pune,Apartment,7100000,1200,3,5917,20000,5,4,Moderate,Gated Society,Moderate,Moderate,"(Bank Manager, Civil Engineer, Sales Executive)",70000-180000
+Wagholi,Bakori Road,Pune,Apartment,6200000,1050,2,5905,16000,4,3,Moderate,Security,Moderate,Moderate,"(College Lecturer, Sales Executive, Graphic Designer)",50000-120000
+Phursungi,Autocluster Area,Pune,Apartment,6300000,1050,2,6000,15000,4,3,Moderate,Security,Moderate,Moderate,"(Manufacturing Engineer, Technician, Small Business Owner)",50000-120000
+Lohegaon,DY Patil Road,Pune,Apartment,7500000,1250,3,6000,21000,6,4,Moderate,Gym,Moderate,Moderate,"(Air Force Personnel, Pilot, Security Consultant)",70000-200000
+Dighi,Near Alandi Road,Pune,Apartment,6900000,1150,3,6000,18000,5,4,Moderate,Parking,Moderate,Moderate,"(Government Employee, Technician, Accountant)",60000-150000
+Alandi,Near Dehu Road,Pune,Apartment,6400000,1150,2,5565,17000,4,3,Moderate,Gated Society,Moderate,Moderate,"(Factory Worker, Business Consultant, Sales Manager)",60000-150000
+Khed,Near Chakan MIDC,Pune,Apartment,6200000,1100,2,5636,15000,3,2,Moderate,None,Moderate,Moderate,"(Factory Worker, Shop Owner, Truck Driver)",40000-120000
+Chakan,Kharabwadi,Pune,Apartment,5900000,1000,2,5900,14000,3,2,Moderate,None,Moderate,Moderate,"(Automobile Engineer, Supervisor, Welder)",50000-140000
+Ravet,Gahunje,Pune,Apartment,7200000,1150,3,6261,20000,5,4,Moderate,Parking,Moderate,Moderate,"(Software Engineer, Industrial Manager, Consultant)",70000-180000
+Pimple Gurav,Kate Wasti,Pune,Apartment,8900000,1200,3,7417,26000,5,4,High,Gated Society,High,Low,"(Retail Manager, HR Executive, Civil Engineer)",70000-180000
+Bhosari,Indrayani Nagar,Pune,Apartment,6800000,1100,2,6182,17000,4,3,Moderate,Gym,Moderate,Moderate,"(College Lecturer, Sales Executive, Graphic Designer)",50000-120000
+Nigdi,Pradhikaran,Pune,Apartment,9200000,1400,3,6571,27000,6,5,High,Swimming Pool,High,Low,"(Researcher, Corporate Executive, Professor)",120000-500000
+Talegaon Dabhade,Near Railway Station,Pune,Apartment,5700000,1000,2,5700,14000,3,2,Moderate,None,Moderate,Moderate,"(Manufacturing Executive, Plant Manager, Electrician)",50000-140000
+Mulshi,Near Temghar Dam,Pune,Farmhouse,21000000,5000,4,4200,60000,8,7,Very High,Private Garden,Very High,Low,"(Agriculturalist, Business Owner, Celebrity)",300000+
+Lavale,Near Symbiosis University,Pune,Apartment,7300000,1150,3,6348,19000,5,4,Moderate,Parking,Moderate,Moderate,"(Professor, Lecturer, Researcher)",60000-150000
+Jambhulwadi,Near Lake View Society,Pune,Apartment,6700000,1100,2,6091,17000,4,3,Moderate,Security,Moderate,Moderate,"(IT Technician, Small Business Owner, Teacher)",60000-140000
+Bhugaon,Near Manas Lake,Pune,Apartment,8500000,1350,3,6296,25000,6,5,High,Gated Security,High,Low,"(Business Consultant, Corporate Manager, Lawyer)",90000-350000
+Kirkatwadi,Near Nanded City,Pune,Apartment,7400000,1200,3,6167,21000,5,4,Moderate,Parking,Moderate,Moderate,"(Marketing Executive, Financial Planner, IT Analyst)",70000-200000
+Ambegaon Khurd,Near Sinhagad College,Pune,Apartment,7200000,1150,3,6261,20000,5,4,Moderate,Gym,Moderate,Moderate,"(Software Engineer, Professor, Architect)",80000-250000
+Kasarsai,Near Infosys Phase 3,Pune,Apartment,6800000,1100,2,6182,17000,4,3,Moderate,Clubhouse,Moderate,Moderate,"(Industrial Engineer, Product Designer, Consultant)",70000-200000
+Pirangut,Near MIDC,Pune,Apartment,6200000,1100,2,5636,15000,3,2,Moderate,None,Moderate,Moderate,"(Factory Worker, Shop Owner, Truck Driver)",40000-120000
+Junnar,Near Shivneri Fort,Pune,Farmhouse,24000000,6000,5,4000,65000,9,7,Very High,Private Garden,Very High,Low,"(Business Owner, Entrepreneur, Celebrity)",500000+
+Katraj,Santosh Nagar,Pune,Apartment,7200000,1200,3,6000,19000,5,4,Moderate,Gym,Moderate,Moderate,"(Civil Engineer, Shop Owner, IT Analyst)",60000-180000
+Katraj,Gokul Nagar,Pune,Apartment,7000000,1100,2,6363,17000,4,3,Moderate,Parking,Moderate,Moderate,"(Retail Executive, Teacher, Technician)",50000-150000
+Bibwewadi,Upper Indira Nagar,Pune,Apartment,8500000,1300,3,6538,25000,6,5,High,Gated Society,High,Low,"(Doctor, Banker, IT Consultant)",100000-300000
+Bibwewadi,Gangadham Chowk,Pune,Apartment,8900000,1350,3,6592,27000,7,5,High,Clubhouse,High,Low,"(Chartered Accountant, Software Engineer, HR Manager)",120000-350000
+Warje,Ramnagar Colony,Pune,Apartment,7800000,1250,3,6240,22000,5,4,Moderate,Swimming Pool,Moderate,Moderate,"(Professor, Consultant, Software Developer)",80000-250000
+Warje,Atul Nagar,Pune,Apartment,8200000,1300,3,6307,24000,6,4,Moderate,Gated Security,Moderate,Moderate,"(Marketing Manager, Financial Analyst, Architect)",80000-200000
+Sinhagad Road,Manik Baug,Pune,Apartment,7400000,1200,3,6167,21000,5,4,Moderate,Parking,Moderate,Moderate,"(Software Engineer, Accountant, HR Professional)",70000-180000
+Sinhagad Road,Kirkatwadi,Pune,Apartment,7300000,1150,3,6348,19000,5,4,Moderate,Parking,Moderate,Moderate,"(Lecturer, Marketing Executive, Business Analyst)",70000-150000
+Narhe,Near Zeal College,Pune,Apartment,6700000,1100,2,6091,17000,4,3,Moderate,Security,Moderate,Moderate,"(IT Technician, Small Business Owner, Accountant)",60000-140000
+Dhayari,Near Dhayari Phata,Pune,Apartment,6500000,1050,2,6190,16000,4,3,Moderate,Gated Society,Moderate,Moderate,"(Factory Worker, Real Estate Agent, Small Business Owner)",50000-120000
+Ambegaon Budruk,Near Sinhagad College,Pune,Apartment,6900000,1150,3,6000,18000,5,4,Moderate,Gym,Moderate,Moderate,"(Software Engineer, Architect, Consultant)",80000-250000
+Nanded City,Pancham Society,Pune,Apartment,9700000,1400,3,6928,28000,6,5,High,Swimming Pool,High,Low,"(Corporate Manager, IT Consultant, Lawyer)",120000-400000
+Vadgaon Sheri,Shastri Nagar,Pune,Apartment,9100000,1250,3,7280,26000,6,5,High,Gated Security,High,Low,"(IT Professional, Financial Analyst, Researcher)",100000-300000
+Vadgaon Sheri,Pratik Nagar,Pune,Apartment,8500000,1200,3,7083,25000,6,5,High,Gym,High,Low,"(Professor, Consultant, Business Owner)",90000-250000
+Yerwada,Near Golf Course,Pune,Apartment,11500000,1500,3,7667,35000,8,6,Very High,Swimming Pool,Very High,Low,"(Investment Banker, Senior Consultant, Business Owner)",200000-600000
+Yerwada,Kalas Area,Pune,Apartment,7800000,1250,3,6240,22000,5,4,Moderate,Parking,Moderate,Moderate,"(Software Engineer, HR Executive, Marketing Manager)",80000-200000
+Bopodi,Near Khadki Station,Pune,Apartment,7200000,1200,3,6000,19000,5,4,Moderate,Gym,Moderate,Moderate,"(Defense Personnel, Business Consultant, Technician)",70000-180000
+Khadki,Near CME,Pune,Apartment,6800000,1100,2,6182,17000,4,3,Moderate,Gated Society,Moderate,Moderate,"(Defense Employee, Government Official, Lecturer)",60000-150000
+Alandi,Moshi Road,Pune,Apartment,6400000,1150,2,5565,17000,4,3,Moderate,Security,Moderate,Moderate,"(Factory Worker, Business Consultant, Sales Manager)",60000-150000
+Moshi,Near Spine Road,Pune,Apartment,7800000,1300,3,6000,20000,6,4,Moderate,Parking,Moderate,Moderate,"(Engineer, Small Business Owner, IT Technician)",70000-180000
+Chikhali,Near Moshi Toll Plaza,Pune,Apartment,7300000,1200,3,6083,19000,5,4,Moderate,Gated Community,Moderate,Moderate,"(Automobile Engineer, Plant Manager, Supervisor)",60000-200000
+Chikhali,Near Chakan Road,Pune,Apartment,7000000,1100,2,6363,17000,4,3,Moderate,Parking,Moderate,Moderate,"(Automobile Technician, Factory Worker, Business Owner)",50000-140000
+Talegaon Dabhade,Near MIDC,Pune,Apartment,5900000,1000,2,5900,14000,3,2,Moderate,None,Moderate,Moderate,"(Manufacturing Executive, Electrician, Truck Driver)",50000-140000
+Maval,Lonavala Road,Pune,Farmhouse,30000000,7000,5,4286,70000,10,8,Very High,Private Garden,Very High,Low,"(Business Owner, Entrepreneur, Celebrity)",500000+
+Lavasa,Dasve,Pune,Villa,35000000,7500,5,4667,75000,10,8,Very High,Private Lake Access,Very High,Low,"(Investor, Politician, NRI)",500000+
+Shirwal,Near Khandala Industrial Zone,Pune,Apartment,5200000,950,2,5474,13000,3,2,Moderate,None,Moderate,Moderate,"(Factory Worker, Technician, Supervisor)",50000-120000
+Jejuri,Near Khandoba Temple,Pune,Apartment,5000000,900,2,5556,12000,3,2,Moderate,None,Moderate,Moderate,"(Retailer, Temple Priest, Small Business Owner)",40000-100000
+Lonikand,Near Kesnand Road,Pune,Apartment,5700000,1000,2,5700,14000,3,2,Moderate,None,Moderate,Moderate,"(Farmer, Factory Worker, Small Business Owner)",40000-120000
+Rajgurunagar,Near Chakan MIDC,Pune,Apartment,6000000,1050,2,5714,15000,3,2,Moderate,None,Moderate,Moderate,"(Warehouse Manager, Shop Owner, Technician)",50000-120000
+Harpale Vasti,Near Solapur Highway,Pune,Apartment,5700000,1000,2,5700,14000,3,2,Moderate,None,Moderate,Moderate,"(Factory Worker, Small Business Owner, IT Technician)",40000-120000
+Bhekrai Nagar,Near Saswad Road,Pune,Apartment,5500000,950,2,5789,13000,3,2,Moderate,None,Moderate,Moderate,"(Retailer, Technician, Government Employee)",45000-110000
+Kalepadal,Near Hadapsar Industrial Area,Pune,Apartment,6200000,1100,3,5636,16000,4,3,Moderate,Security,Moderate,Moderate,"(Software Developer, Marketing Executive, Civil Engineer)",60000-150000
+Manjari Budruk,Near Manjari Greens,Pune,Apartment,6800000,1150,3,5913,18000,5,4,Moderate,Gated Society,Moderate,Moderate,"(IT Professional, Business Owner, Sales Manager)",70000-180000
+Uruli Devachi,Near Garbage Depot,Pune,Apartment,5000000,900,2,5556,12000,3,2,Moderate,None,Moderate,Moderate,"(Laborer, Small Retailer, Local Trader)",40000-100000
+Phursungi,Near SEZ Area,Pune,Apartment,5800000,1050,2,5524,14000,3,2,Moderate,Parking,Moderate,Moderate,"(Factory Supervisor, Warehouse Manager, Accountant)",50000-130000
+Shewalewadi,Near Wagholi Road,Pune,Apartment,6000000,1100,2,5455,15000,4,3,Moderate,Security,Moderate,Moderate,"(Agriculturalist, Local Business Owner, Construction Worker)",50000-120000
+Saswad Road,Near Mantarwadi,Pune,Apartment,5400000,1000,2,5400,13000,3,2,Moderate,None,Moderate,Moderate,"(Farmer, Local Entrepreneur, Driver)",40000-110000
+Alandi Devachi,Near Temple Road,Pune,Apartment,6300000,1200,3,5250,16000,5,4,Moderate,Clubhouse,Moderate,Moderate,"(Priest, Business Owner, IT Analyst)",60000-180000
+Markal,Near MIDC Area,Pune,Apartment,5700000,1050,2,5429,14000,3,2,Moderate,Parking,Moderate,Moderate,"(Warehouse Operator, Retail Executive, Shopkeeper)",50000-120000
+Vadgaon Ghenand,Near Charholi,Pune,Apartment,5600000,1000,2,5600,13500,3,2,Moderate,None,Moderate,Moderate,"(Government Employee, Retailer, Farmer)",50000-110000
+Shikrapur,Near Pune-Nagar Highway,Pune,Apartment,5200000,1000,2,5200,12500,3,2,Moderate,None,Moderate,Moderate,"(Industrial Worker, Sales Manager, Technician)",50000-120000
+Ranjangaon MIDC,Near Industrial Area,Pune,Apartment,6000000,1100,2,5455,15000,3,2,Moderate,Parking,Moderate,Moderate,"(Factory Supervisor, IT Support, Engineer)",60000-140000
+Khanapur,Near Sinhagad Fort,Pune,Villa,12000000,2500,4,4800,35000,6,5,High,Private Garden,High,Low,"(Entrepreneur, Corporate Executive, Consultant)",200000-500000
+Donaje,Near Sinhagad Base,Pune,Farmhouse,15000000,5000,5,3000,40000,7,6,Very High,Swimming Pool,Very High,Low,"(Industrialist, Business Tycoon, NRI)",500000+
+Khadakwasla,Near Backwater View,Pune,Villa,14000000,2700,4,5185,38000,7,5,Very High,Gated Security,High,Low,"(Retired Professional, Business Owner, Investor)",150000-400000
+Lavale,Near Symbiosis University,Pune,Apartment,8500000,1300,3,6538,25000,6,5,High,Clubhouse,High,Low,"(Professor, Researcher, Corporate Trainer)",100000-300000
+Sus Gaon,Near Sus Road,Pune,Apartment,8800000,1350,3,6519,26000,6,5,High,Gym,High,Low,"(IT Consultant, Senior Engineer, Startup Founder)",120000-350000
+Pirangut,Near Industrial Hub,Pune,Apartment,7200000,1250,3,5760,20000,5,4,Moderate,Gated Security,Moderate,Moderate,"(Factory Supervisor, Research Analyst, Marketing Executive)",70000-180000
+Bhugaon,Near Chandani Chowk,Pune,Apartment,9500000,1400,3,6786,28000,6,5,High,Gated Community,High,Low,"(Bank Manager, Financial Advisor, Business Consultant)",120000-350000
+Khed Shivapur,Near NH-4,Pune,Apartment,6800000,1100,2,6182,17000,4,3,Moderate,Parking,Moderate,Moderate,"(Transport Business Owner, Truck Operator, Mechanic)",60000-150000
+Nasrapur,Near Bhor Road,Pune,Apartment,5600000,1000,2,5600,14000,3,2,Moderate,None,Moderate,Moderate,"(Agriculturalist, Small Shop Owner, Teacher)",50000-120000
+Bhor,Near Mahad Road,Pune,Apartment,5200000,1000,2,5200,13000,3,2,Moderate,None,Moderate,Moderate,"(Farmer, Self-Employed, NGO Worker)",40000-100000
+Velhe,Near Torna Fort,Pune,Farmhouse,12500000,4500,4,2778,38000,6,5,High,Private Garden,High,Low,"(Industrialist, Business Owner, Celebrity)",500000+
+Budhwar Peth,Laxmi Road,Pune,Apartment,7500000,1200,2,6250,20000,8,6,High,None,Moderate,Moderate,"(Shop Owner, Trader, Cloth Merchant)",60000-200000
+Kasba Peth,Near Kasba Ganpati,Pune,Apartment,7200000,1100,2,6545,19000,7,6,High,Parking,Moderate,Moderate,"(Goldsmith, Business Owner, Teacher)",60000-180000
+Mohammed Wadi,Near Kausar Baug,Pune,Apartment,8200000,1250,3,6560,22000,6,5,High,Gym,High,Low,"(Software Engineer, Professor, Sales Consultant)",80000-250000
+Loni Kalbhor,Near Theur Phata,Pune,Apartment,5300000,1000,2,5300,13000,4,3,Moderate,None,Moderate,Moderate,"(Farmer, Small Shop Owner, Driver)",45000-120000
+Theur Phata,Near Chintamani Ganpati,Pune,Apartment,6200000,1150,3,5391,16000,5,3,Moderate,Parking,Moderate,Moderate,"(Agriculturalist, Trader, Government Clerk)",50000-130000
+Moshi,Near Spine Road,Pune,Apartment,7200000,1200,3,6000,18000,5,4,High,Gated Security,High,Moderate,"(IT Engineer, Small Business Owner, Consultant)",70000-200000
+Talawade IT Park,Near MIDC Area,Pune,Apartment,8000000,1300,3,6154,20000,6,5,High,Clubhouse,High,Low,"(Software Developer, Data Scientist, UX Designer)",100000-300000
+Pashan Gaon,Near Chandni Chowk,Pune,Apartment,9100000,1400,3,6500,25000,7,6,High,Gated Community,High,Low,"(Doctor, Consultant, Financial Analyst)",120000-350000
+Paud Village,Near Paud Phata,Pune,Apartment,5400000,1000,2,5400,14000,4,3,Moderate,None,Moderate,Moderate,"(Farmer, Village Trader, Local Shop Owner)",40000-120000
+Mutha Village,Near Mutha River,Pune,Villa,13500000,2500,4,5400,40000,7,5,Very High,Private Garden,High,Low,"(Retired Professional, Artist, Nature Enthusiast)",150000-400000
+Kusgaon,Near Lonavala,Pune,Farmhouse,18000000,4500,5,4000,50000,8,6,Very High,Swimming Pool,Very High,Low,"(Industrialist, Politician, Celebrity)",500000+
+Vadgaon Maval,Near Railway Station,Pune,Apartment,6700000,1200,3,5583,17000,5,4,Moderate,Parking,Moderate,Moderate,"(Warehouse Owner, Factory Supervisor, Sales Manager)",70000-180000
+Kanhe Phata,Near NH-4,Pune,Apartment,6200000,1100,3,5636,16000,4,3,Moderate,None,Moderate,Moderate,"(Local Transporter, Small Retailer, Teacher)",60000-150000
+Shirgaon,Near Talegaon MIDC,Pune,Apartment,6900000,1200,3,5750,18000,5,4,Moderate,Gym,Moderate,Moderate,"(Factory Worker, IT Support, Business Owner)",60000-180000
+Navlakh Umbre,Near Somatane Phata,Pune,Apartment,7200000,1250,3,5760,19000,5,4,Moderate,Security,Moderate,Moderate,"(Engineer, Consultant, Logistics Manager)",70000-180000
+Lavale Hills,Near Symbiosis University,Pune,Apartment,8500000,1300,3,6538,25000,6,5,High,Clubhouse,High,Low,"(Professor, Researcher, Entrepreneur)",100000-300000
+Panshet,Near Panshet Dam,Pune,Farmhouse,20000000,5000,5,4000,60000,9,7,Very High,Private Garden,Very High,Low,"(Wealthy Industrialist, Celebrity, High Net-worth Individual)",500000+
+Velhe,Near Torna Fort,Pune,Farmhouse,13500000,4500,4,3000,38000,7,6,High,Private Garden,High,Low,"(Politician, Entrepreneur, Investor)",500000+
+Tambat Ali,Kasba Peth,Pune,Apartment,6400000,1100,2,5818,16000,6,5,Moderate,None,Moderate,Moderate,"(Goldsmith, Artisan, Retail Shop Owner)",60000-150000
+Gokhale Nagar,Near University Road,Pune,Apartment,9500000,1350,3,7037,28000,7,6,High,Gym,High,Low,"(Professor, Engineer, Researcher)",100000-300000
+Patil Estate,Near Shivajinagar ST Stand,Pune,Apartment,7200000,1250,3,5760,19000,5,4,Moderate,Parking,Moderate,Moderate,"(Auto Mechanic, Transport Worker, Small Trader)",50000-120000
+Wadmukhwadi,Near Bhosari MIDC,Pune,Apartment,8700000,1400,3,6214,24000,6,5,High,Security,High,Moderate,"(Factory Owner, Industrial Worker, Consultant)",80000-250000
+Bhosari MIDC Gaothan,Near Landewadi,Pune,Apartment,7900000,1300,3,6077,21000,5,4,Moderate,None,Moderate,Moderate,"(Mechanic, Businessman, Technician)",70000-200000
+Chakan Talegaon Road,Near Induri,Pune,Apartment,8900000,1450,3,6138,25000,6,5,High,Clubhouse,High,Low,"(Automobile Engineer, Logistic Manager, Industrialist)",90000-300000
+Dighi Hills Extension,Near Charholi,Pune,Apartment,6700000,1200,2,5583,16000,5,3,Moderate,None,Moderate,Moderate,"(Warehouse Manager, Sales Agent, Transport Supervisor)",60000-180000
+Undri Gaothan,Near Handewadi Road,Pune,Apartment,8200000,1350,3,6074,23000,6,5,High,Gated Community,High,Low,"(IT Manager, Financial Consultant, Professor)",90000-250000
+Pisoli Phata,Near Mohammadwadi,Pune,Apartment,7200000,1200,3,6000,19000,5,4,Moderate,Security,Moderate,Moderate,"(Teacher, Doctor, Small Business Owner)",70000-200000
+Manjri Khurd,Near SP Infocity,Pune,Apartment,7800000,1300,3,6000,20000,5,4,High,Gym,High,Moderate,"(Software Engineer, HR Executive, Finance Analyst)",80000-250000
+Bhugaon Hills,Near Lavale Road,Pune,Apartment,9500000,1400,3,6786,26000,7,6,High,Gated Security,High,Low,"(Architect, Entrepreneur, Investment Banker)",120000-400000
+Pashan Sus Road,Near Mahalunge,Pune,Apartment,9200000,1350,3,6815,25000,7,6,High,Clubhouse,High,Low,"(Consultant, Senior Executive, Corporate Trainer)",120000-350000
+Temghar Dam Road,Near Paud Village,Pune,Villa,17500000,3500,5,5000,45000,8,7,Very High,Private Garden,Very High,Low,"(Retired CEO, Politician, High Net Worth Individual)",500000+
+Lavasa Approach Road,Near Mutha Valley,Pune,Villa,20000000,5000,5,4000,60000,9,7,Very High,Private Garden,Very High,Low,"(Resort Owner, Real Estate Investor, Celebrity)",500000+
+Panshet Gaothan,Near Panshet Dam,Pune,Farmhouse,14000000,4500,4,3111,38000,7,6,High,Private Garden,High,Low,"(Wealthy Industrialist, Celebrity, High Net-worth Individual)",500000+
+Shirwal Factory Zone,Near NH-48,Pune,Apartment,7300000,1300,3,5615,18000,5,3,Moderate,Security,Moderate,Moderate,"(Production Supervisor, Mechanical Engineer, Factory Manager)",70000-200000
+Talegaon Floriculture Hub,Near Talegaon Dabhade,Pune,Apartment,8500000,1400,3,6071,24000,6,5,High,Gated Community,High,Moderate,"(Horticulturist, Florist, Exporter)",90000-300000
+Rajgurunagar Market,Near Pait Village,Pune,Apartment,6800000,1200,3,5667,17000,5,3,Moderate,None,Moderate,Moderate,"(Trader, Retail Shop Owner, Transport Manager)",60000-180000
+Kasba Peth,Tambat Ali,Pune,Apartment,6400000,1100,2,5818,16000,6,5,Moderate,None,Moderate,Moderate,"(Goldsmith, Artisan, Retail Shop Owner)",60000-150000
+Shivajinagar,Patil Estate,Pune,Apartment,7200000,1250,3,5760,19000,5,4,Moderate,Parking,Moderate,Moderate,"(Mechanic, Transport Worker, Small Trader)",50000-120000
+Bhosari,Wadmukhwadi,Pune,Apartment,8700000,1400,3,6214,24000,6,5,High,Security,High,Moderate,"(Factory Owner, Industrial Worker, Consultant)",80000-250000
+Chakan,Chakan MIDC,Pune,Apartment,8900000,1450,3,6138,25000,6,5,High,Clubhouse,High,Low,"(Automobile Engineer, Logistic Manager, Industrialist)",90000-300000
+Dighi,Charholi Khurd,Pune,Apartment,6700000,1200,2,5583,16000,5,3,Moderate,None,Moderate,Moderate,"(Warehouse Manager, Sales Agent, Transport Supervisor)",60000-180000
+Undri,Undri Gaothan,Pune,Apartment,8200000,1350,3,6074,23000,6,5,High,Gated Community,High,Low,"(IT Manager, Financial Consultant, Professor)",90000-250000
+Hadapsar,Bhekrai Nagar,Pune,Apartment,7500000,1250,3,6000,19000,5,4,Moderate,Security,Moderate,Moderate,"(Teacher, Doctor, Small Business Owner)",70000-200000
+Manjri,Manjri Khurd,Pune,Apartment,7800000,1300,3,6000,20000,5,4,High,Gym,High,Moderate,"(Software Engineer, HR Executive, Finance Analyst)",80000-250000
+Baner,Pashan Sus Road,Pune,Apartment,9200000,1350,3,6815,25000,7,6,High,Clubhouse,High,Low,"(Consultant, Senior Executive, Corporate Trainer)",120000-350000
+Lavale,Lavale Phata,Pune,Villa,17500000,3500,5,5000,45000,8,7,Very High,Private Garden,Very High,Low,"(Retired CEO, Politician, High Net Worth Individual)",500000+
+Panshet,Panshet Gaothan,Pune,Farmhouse,14000000,4500,4,3111,38000,7,6,High,Private Garden,High,Low,"(Industrialist, Celebrity, Wealthy Investor)",500000+
+Shirwal,Shirwal Factory Zone,Pune,Apartment,7300000,1300,3,5615,18000,5,3,Moderate,Security,Moderate,Moderate,"(Production Supervisor, Mechanical Engineer, Factory Manager)",70000-200000
+Talegaon,Talegaon Floriculture Hub,Pune,Apartment,8500000,1400,3,6071,24000,6,5,High,Gated Community,High,Moderate,"(Horticulturist, Florist, Exporter)",90000-300000
+Rajgurunagar,Rajgurunagar Market,Pune,Apartment,6800000,1200,3,5667,17000,5,3,Moderate,None,Moderate,Moderate,"(Trader, Retail Shop Owner, Transport Manager)",60000-180000
+Narhe,Narhe Gaon,Pune,Apartment,6900000,1200,3,5750,18000,5,4,Moderate,Security,Moderate,Moderate,"(Small Business Owner, IT Support, Real Estate Agent)",70000-200000
+Wadgaon Budruk,Vadgaon Gaothan,Pune,Apartment,7100000,1250,3,5680,19000,5,4,Moderate,Gated Community,Moderate,Moderate,"(Retailer, Consultant, Accountant)",80000-220000
+Katraj,Katraj Dairy Area,Pune,Apartment,7600000,1300,3,5846,21000,6,5,High,Parking,High,Moderate,"(Civil Engineer, Architect, Marketing Professional)",90000-250000
+Ambegaon,Ambegaon Pathar,Pune,Apartment,7400000,1280,3,5781,20000,5,4,High,Gym,High,Low,"(Software Developer, Data Scientist, Entrepreneur)",100000-300000
+Sinhagad Road,Kirkatwadi,Pune,Apartment,8500000,1400,3,6071,25000,6,5,High,Security,High,Low,"(Investment Banker, Senior Analyst, Consultant)",120000-400000
+Dhayari,Dhayari Phata,Pune,Apartment,7300000,1250,3,5840,19000,5,4,Moderate,Clubhouse,Moderate,Moderate,"(Retail Manager, Professor, Lawyer)",80000-200000
+Warje,Warje Malwadi,Pune,Apartment,7800000,1300,3,6000,22000,6,5,High,Swimming Pool,High,Low,"(Doctor, Financial Advisor, IT Manager)",100000-300000
+Vadgaon Sheri,Sainikwadi,Pune,Apartment,9200000,1350,3,6815,25000,7,6,High,Gated Security,High,Low,"(Corporate Trainer, IT Director, Business Owner)",150000-400000
+Yerwada,Shastri Nagar,Pune,Apartment,6800000,1150,2,5913,16000,5,4,Moderate,None,Moderate,Moderate,"(Retailer, Travel Agent, Hotel Manager)",60000-180000
+Viman Nagar,Lunkad Colony,Pune,Apartment,12500000,1500,3,8333,40000,8,7,Very High,Private Terrace,Very High,Low,"(Startup Founder, Consultant, Venture Capitalist)",200000-600000
+Pashan,Someshwarwadi,Pune,Apartment,9700000,1400,3,6929,28000,7,6,High,Parking,High,Low,"(Senior IT Professional, Financial Analyst, Lecturer)",120000-350000
+Balewadi,Mahalunge-Balewadi Road,Pune,Apartment,11200000,1550,3,7226,35000,7,6,Very High,Clubhouse,Very High,Low,"(Senior Manager, IT Architect, Product Lead)",150000-500000
+Hinjewadi,Marunji,Pune,Apartment,10800000,1400,3,7714,32000,6,5,High,Security,High,Low,"(Software Engineer, Data Engineer, Business Analyst)",100000-300000
+Wakad,Shankar Kalat Nagar,Pune,Apartment,9800000,1300,3,7538,27000,6,5,High,Gated Community,High,Low,"(Sales Manager, IT Consultant, HR Manager)",100000-300000
+Tathawade,Punawale Road,Pune,Apartment,8700000,1250,3,6960,25000,6,5,High,Gym,High,Low,"(Marketing Executive, Entrepreneur, Investor)",90000-280000
+Ravet,Gahunje,Pune,Apartment,8900000,1300,3,6846,26000,6,5,High,Security,High,Low,"(Finance Manager, IT Consultant, Corporate Executive)",100000-350000
+Hadapsar,Kalepadal,Pune,Apartment,7800000,1250,3,6240,22000,6,4,Moderate,Parking,Moderate,Moderate,"(Professor, Pharmacist, Accountant)",60000-140000
+Hadapsar,Harapale Vasti,Pune,Apartment,8100000,1300,3,6231,23000,6,5,High,Gated Society,High,Moderate,"(Teacher, Consultant, Real Estate Broker)",70000-200000
+Kharadi,Thite Nagar,Pune,Apartment,11500000,1400,3,8214,35000,7,6,Very High,Clubhouse,Very High,Low,"(Software Engineer, Investment Banker, Senior Executive)",150000-500000
+Wagholi,Bhavadi,Pune,Apartment,6800000,1200,3,5667,17000,5,3,Moderate,Security,Moderate,Moderate,"(IT Support, Digital Marketer, Freelancer)",60000-180000
+Dhanori,Bhosari Gaothan,Pune,Apartment,7200000,1250,3,5760,19000,5,3,Moderate,Gym,Moderate,Moderate,"(Mechanical Engineer, Sales Executive, Software Tester)",70000-200000
+Lohegaon,Sant Nagar,Pune,Apartment,7300000,1250,3,5840,19000,5,3,Moderate,Security,Moderate,Moderate,"(Airline Staff, Hotel Manager, Logistics Executive)",70000-200000
+Bibwewadi,Gangadham,Pune,Apartment,10200000,1400,3,7286,30000,7,6,Very High,Gated Security,Very High,Low,"(Business Owner, Senior Consultant, Chartered Accountant)",120000-400000
+Wanowrie,Salunke Vihar,Pune,Apartment,9900000,1400,3,7071,29000,7,6,High,Clubhouse,High,Low,"(Doctor, Lawyer, Business Executive)",120000-350000
+Mundhwa,Ghorpadi,Pune,Apartment,10500000,1400,3,7500,30000,7,6,Very High,Gym,Very High,Low,"(Software Engineer, Corporate Trainer, Financial Analyst)",100000-300000
+Magarpatta,Cosmos Towers,Pune,Apartment,12000000,1500,3,8000,35000,8,7,Very High,Private Terrace,Very High,Low,"(Entrepreneur, IT Director, Venture Capitalist)",200000-600000
+Kondhwa,NIBM Road,Pune,Apartment,8500000,1350,3,6296,24000,7,6,High,Gated Community,High,Low,"(Bank Manager, Consultant, Investment Analyst)",90000-300000
+Katraj,Bharati Vidyapeeth,Pune,Apartment,7900000,1300,3,6077,22000,6,5,High,Swimming Pool,High,Low,"(Professor, Marketing Manager, IT Professional)",90000-250000
+Mohamadwadi,Cloud 9 Society,Pune,Apartment,8700000,1350,3,6444,25000,6,5,High,Gym,High,Low,"(Retail Business Owner, HR Consultant, Business Advisor)",90000-250000
+Hadapsar,Ramtekdi,Pune,Apartment,8100000,1300,3,6231,23000,6,5,High,Gated Society,High,Moderate,"(Teacher, Consultant, Real Estate Broker)",70000-200000
+Hadapsar,Gadital,Pune,Apartment,8500000,1350,3,6296,25000,7,6,High,Swimming Pool,High,Moderate,"(Bank Manager, Consultant, Investment Analyst)",90000-300000
+Hadapsar,Manjari Budruk,Pune,Apartment,7800000,1300,3,6000,22000,6,5,High,Gym,High,Moderate,"(IT Support, Digital Marketer, Freelancer)",60000-180000
+Hadapsar,Kalepadal,Pune,Apartment,7700000,1280,3,6016,21000,6,5,High,Gated Community,High,Moderate,"(Retail Manager, Pharmacist, Accountant)",70000-200000
+Hadapsar,Sasane Nagar,Pune,Apartment,7900000,1300,3,6077,22000,6,5,High,Security,High,Moderate,"(Professor, Marketing Manager, IT Professional)",90000-250000
+Fursungi,Near HP Petrol Pump,Pune,Apartment,6800000,1200,3,5667,18000,5,4,Moderate,Gated Society,Moderate,Moderate,"(IT Support, Accountant, Sales Executive)",60000-180000
+Fursungi,Near PMPML Bus Depot,Pune,Apartment,7000000,1250,3,5600,19000,5,4,Moderate,Parking,Moderate,Moderate,"(Marketing Professional, HR Manager, Consultant)",70000-200000
+Manjari Khurd,Near Manjari Station,Pune,Apartment,7200000,1300,3,5538,20000,5,4,Moderate,Gym,Moderate,Moderate,"(Doctor, Real Estate Agent, Small Business Owner)",80000-250000
+Manjari Budruk,Near Orbis School,Pune,Apartment,7500000,1350,3,5556,21000,6,5,High,Gated Security,High,Moderate,"(Software Engineer, Digital Marketer, Civil Engineer)",90000-300000
+Bhekrai Nagar,Near Sai Mandir,Pune,Apartment,6900000,1200,3,5750,18500,5,4,Moderate,Parking,Moderate,Moderate,"(Retailer, Hardware Business Owner, Local Vendor)",50000-150000
+Bhekrai Nagar,Near JSPM College,Pune,Apartment,7100000,1250,3,5680,19500,5,4,Moderate,Security,Moderate,Moderate,"(Professor, Consultant, Sales Manager)",70000-180000
+Harpale Vasti,Near Palkhi Chowk,Pune,Apartment,6600000,1100,3,6000,17000,4,3,Moderate,Gym,Moderate,Moderate,"(Electrician, Contractor, Supervisor)",50000-150000
+Harpale Vasti,Near DSK Vishwa,Pune,Apartment,6800000,1150,3,5913,17500,4,3,Moderate,Gated Society,Moderate,Moderate,"(Teacher, Accountant, Local Business Owner)",60000-180000
+Katraj,Gokul Nagar,Pune,Apartment,7800000,1300,3,6000,22000,6,5,High,Swimming Pool,High,Moderate,"(Medical Representative, Consultant, Lawyer)",80000-250000
+Katraj,Ambegaon Budruk,Pune,Apartment,8100000,1350,3,6007,23000,6,5,High,Gated Security,High,Moderate,"(Software Developer, Marketing Manager, Financial Analyst)",90000-300000
+Katraj,Khandoba Mal,Pune,Apartment,7600000,1280,3,5938,21000,6,5,High,Security,High,Moderate,"(Retail Manager, IT Professional, Digital Marketer)",70000-250000
+Katraj,Near Bharati Vidyapeeth,Pune,Apartment,8200000,1400,3,5857,24000,7,6,High,Gym,High,Moderate,"(Professor, Investment Banker, Software Engineer)",90000-350000
+Undri,Near Bishop’s School,Pune,Apartment,8500000,1450,3,5862,25000,7,6,High,Clubhouse,High,Low,"(IT Manager, Consultant, Startup Founder)",120000-400000
+Undri,Near Clover Highlands,Pune,Apartment,8700000,1500,3,5800,26000,7,6,High,Gated Security,High,Low,"(Entrepreneur, Lawyer, Senior Analyst)",150000-500000
+Mohamadwadi,Near Dorabjee Mall,Pune,Apartment,9200000,1550,3,5935,28000,7,6,High,Swimming Pool,High,Low,"(Doctor, Software Engineer, Financial Advisor)",120000-400000
+Mohamadwadi,Near Corinthians Club,Pune,Apartment,9400000,1600,3,5875,29000,7,6,High,Gym,High,Low,"(Investment Banker, Consultant, Business Owner)",150000-600000
+Kondhwa,Near NIBM Road,Pune,Apartment,8800000,1450,3,6069,25000,6,5,High,Gated Community,High,Moderate,"(Doctor, Consultant, Marketing Director)",100000-500000
+Kondhwa,Kausar Baug,Pune,Apartment,8600000,1400,3,6143,24000,6,5,High,Parking,High,Moderate,"(Software Engineer, Civil Engineer, Architect)",90000-350000
+Loni Kalbhor,Near Lonikalbhor Railway Station,Pune,Apartment,7500000,1350,3,5556,21000,5,4,Moderate,Gated Society,Moderate,Moderate,"(Retailer, Local Business Owner, Shopkeeper)",50000-180000
+Loni Kalbhor,Near MIT College,Pune,Apartment,7700000,1400,3,5500,22000,5,4,Moderate,Security,Moderate,Moderate,"(Professor, Accountant, Marketing Professional)",70000-200000
+Wagholi,Ubale Nagar,Pune,Apartment,6200000,1100,2,5636,16000,5,4,Moderate,Gated Security,Moderate,Moderate,"(Software Engineer, Accountant, Sales Executive)",60000-180000
+Wagholi,Lake Vista,Pune,Apartment,6400000,1150,2,5565,17000,5,4,Moderate,Gym,Moderate,Moderate,"(Marketing Professional, IT Consultant, Data Analyst)",70000-200000
+Wagholi,Near Kesnand Phata,Pune,Apartment,6000000,1050,2,5714,15000,4,3,Moderate,Parking,Moderate,Moderate,"(Retailer, Sales Manager, HR Executive)",50000-150000
+Wagholi,RMC Garden,Pune,Apartment,6500000,1200,3,5417,17500,5,4,Moderate,Swimming Pool,Moderate,Moderate,"(Professor, IT Manager, Business Owner)",80000-250000
+Bakori,Bakori Road,Pune,Apartment,5700000,1000,2,5700,14000,4,3,Moderate,Gated Community,Moderate,Moderate,"(Electrician, Consultant, Marketing Professional)",50000-150000
+Bakori,Near Lexicon School,Pune,Apartment,5900000,1050,2,5619,15000,4,3,Moderate,Security,Moderate,Moderate,"(Professor, Digital Marketer, Financial Analyst)",60000-180000
+Kesnand,Near HP Petrol Pump,Pune,Apartment,5600000,950,2,5895,13500,4,3,Moderate,Parking,Moderate,Moderate,"(Local Vendor, Retailer, Civil Engineer)",40000-120000
+Alandi,Dehu Phata,Pune,Apartment,6800000,1200,3,5667,18000,5,4,Moderate,Gated Society,Moderate,Moderate,"(Professor, Accountant, Marketing Professional)",60000-180000
+Alandi,Near Dnyaneshwar Temple,Pune,Apartment,7000000,1250,3,5600,19000,5,4,Moderate,Parking,Moderate,Moderate,"(Religious Guru, Local Business Owner, Tour Guide)",70000-200000
+Alandi,Charholi Budruk,Pune,Apartment,7200000,1300,3,5538,20000,6,4,Moderate,Gym,Moderate,Moderate,"(Software Developer, HR Executive, Marketing Consultant)",80000-250000
+Charholi,Near D Y Patil College,Pune,Apartment,7400000,1350,3,5481,21000,6,4,Moderate,Gated Community,Moderate,Moderate,"(Professor, IT Support Engineer, Business Analyst)",90000-280000
+Dighi,Bhosari Road,Pune,Apartment,7600000,1400,3,5429,22000,6,5,High,Security,High,Low,"(Factory Worker, Supervisor, IT Technician)",70000-200000
+Dighi,Near Air Force Station,Pune,Apartment,7800000,1450,3,5379,23000,6,5,High,Gym,High,Low,"(Defense Officer, Teacher, Financial Analyst)",90000-300000
+Bhosari,Near MIDC Area,Pune,Apartment,8000000,1500,3,5333,24000,7,5,High,Gated Community,High,Low,"(Engineer, Technician, Local Business Owner)",100000-350000
+Bhosari,Landewadi,Pune,Apartment,8200000,1550,3,5290,25000,7,5,High,Security,High,Low,"(Retail Business, Sales Executive, IT Consultant)",90000-300000
+Hadaosar,Ramtekdi Industrial Area,Pune,Apartment,8400000,1600,3,5250,26000,7,6,High,Gated Society,High,Low,"(Factory Manager, Logistics Coordinator, HR Professional)",110000-400000
+Hadapsar,Near Amanora Mall,Pune,Apartment,8600000,1650,3,5212,27000,8,6,Very High,Clubhouse,Very High,Low,"(Corporate Executive, Consultant, Startup Founder)",150000-500000
+Hadapsar,SP Infocity,Pune,Apartment,8800000,1700,3,5176,28000,8,6,Very High,Gym,Very High,Low,"(Software Engineer, Project Manager, Business Owner)",140000-450000
+Manjari,Near Manjari Stud Farm,Pune,Apartment,9000000,1750,3,5143,29000,8,6,Very High,Gated Community,Very High,Low,"(IT Director, CEO, Senior Consultant)",180000-600000
+Keshav Nagar,Near EON IT Park,Pune,Apartment,9200000,1800,3,5111,30000,8,7,Very High,Security,Very High,Low,"(Software Developer, Investment Banker, Entrepreneur)",200000-700000
+Mundhwa,Ghorpadi,Pune,Apartment,9400000,1850,3,5081,31000,9,7,Very High,Clubhouse,Very High,Low,"(Doctor, Lawyer, Business Consultant)",160000-500000
+Viman Nagar,Near Phoenix Marketcity,Pune,Apartment,9600000,1900,3,5053,32000,9,7,Very High,Swimming Pool,Very High,Low,"(Corporate Lawyer, Investment Banker, Fashion Designer)",200000-800000
+Viman Nagar,Lane No 6,Pune,Apartment,9800000,1950,3,5026,33000,9,7,Very High,Gated Security,Very High,Low,"(Consultant, Senior Manager, Startup Founder)",180000-700000
+AIT Vishrantwadi,Near Army Institute of Technology,Pune,Apartment,10000000,2000,3,5000,34000,9,7,Very High,Gym,Very High,Low,"(Professor, Army Officer, Research Scientist)",150000-500000
+Vishrantwadi,Dhanori Road,Pune,Apartment,10200000,2050,3,4976,35000,9,7,Very High,Clubhouse,Very High,Low,"(Real Estate Investor, Consultant, CEO)",200000-800000
+Lohegaon,Near Pune Airport,Pune,Apartment,10400000,2100,3,4952,36000,9,7,Very High,Parking,Very High,Low,"(Pilot, Air Traffic Controller, Hospitality Manager)",180000-700000
+Lohegaon,Airport Road,Pune,Apartment,10600000,2150,3,4930,37000,9,7,Very High,Swimming Pool,Very High,Low,"(Corporate Executive, Doctor, Business Owner)",200000-750000
+Kharadi,Near Zensar IT Park,Pune,Apartment,10800000,2200,3,4909,38000,9,7,Very High,Gated Community,Very High,Low,"(Software Engineer, Data Scientist, IT Director)",200000-600000
+Kharadi,World Trade Center,Pune,Apartment,11000000,2250,3,4889,39000,9,7,Very High,Security,Very High,Low,"(Financial Analyst, Entrepreneur, Marketing Head)",250000-900000
+Yerwada,Near Gunjan Theatre,Pune,Apartment,11200000,2300,3,4870,40000,9,7,Very High,Clubhouse,Very High,Low,"(Civil Servant, Senior Consultant, Professor)",200000-800000
+Yerwada,Shastri Nagar,Pune,Apartment,11400000,2350,3,4851,41000,9,7,Very High,Gym,Very High,Low,"(Judge, Lawyer, Government Official)",220000-850000
+Ghorpadi,Near Bishop's School,Pune,Apartment,11600000,2400,3,4833,42000,9,7,Very High,Security,Very High,Low,"(Real Estate Developer, Architect, Senior Manager)",180000-700000
+Kondhwa,NIBM Road,Pune,Apartment,11800000,2450,3,4816,43000,9,7,Very High,Swimming Pool,Very High,Low,"(Business Owner, Marketing Director, Investment Banker)",220000-900000
+Undri,Near Bishop's School,Pune,Apartment,12000000,2500,3,4800,44000,9,7,Very High,Gated Security,Very High,Low,"(Corporate Lawyer, CEO, Finance Manager)",250000-1000000
+Mohamadwadi,Near Corinthians Club,Pune,Apartment,12200000,2550,3,4784,45000,9,7,Very High,Clubhouse,Very High,Low,"(Sports Coach, Wellness Expert, Film Producer)",300000+
+Nanded City,Near Sinhagad Road,Pune,Apartment,12400000,2600,3,4769,46000,9,7,Very High,Gym,Very High,Low,"(Software Engineer, Consultant, Entrepreneur)",180000-600000
+Warje,Near NDA Road,Pune,Apartment,12600000,2650,3,4755,47000,9,7,Very High,Security,Very High,Low,"(Professor, Research Scientist, Data Analyst)",200000-750000
+Katraj,Near Bharati Vidyapeeth,Pune,Apartment,12800000,2700,3,4741,48000,9,7,Very High,Parking,Very High,Low,"(Educationist, Consultant, Business Owner)",200000-800000
+Dhomkhed,Near Pune-Solapur Highway,Pune,Apartment,4200000,950,2,4421,12000,3,2,Low,Gated Society,Moderate,Moderate,"(Farmers, Small Business Owners, Teachers)",30000-100000
+Dhomkhed,Near Industrial Zone,Pune,Row House,6500000,1500,3,4333,18000,4,3,Moderate,Gym,Moderate,Low,"(Factory Supervisors, Consultants, IT Technicians)",50000-150000
+Kesnand,Near Kesnand Phata,Pune,Apartment,4700000,1000,2,4700,14000,4,3,Moderate,Security,Moderate,Moderate,"(Agricultural Traders, IT Support, Small Entrepreneurs)",40000-120000
+Kesnand,Near Balaji Temple,Pune,Row House,7200000,1600,3,4500,20000,5,3,Moderate,Gated Community,Moderate,Low,"(School Teachers, Real Estate Agents, Traders)",60000-180000
+Perne,Near Alandi Road,Pune,Apartment,5000000,1100,2,4545,15000,4,3,Moderate,Security,Moderate,Moderate,"(Construction Workers, Shopkeepers, Mid-Level Executives)",40000-120000
+Perne,Near MIDC Area,Pune,Row House,7800000,1700,3,4588,21000,5,4,Moderate,Clubhouse,Moderate,Low,"(Factory Managers, Marketing Professionals, Self-Employed)",70000-200000
+Manjari Budruk,Near Manjari Station,Pune,Apartment,5300000,1150,2,4609,16000,5,3,Moderate,Parking,Moderate,Moderate,"(IT Technicians, Teachers, Local Business Owners)",50000-150000
+Theur,Near Chintamani Temple,Pune,Apartment,4900000,1050,2,4667,14000,4,3,Moderate,Gated Society,Moderate,Moderate,"(Pilgrimage Business Owners, Teachers, Consultants)",40000-110000
+Theur,Near Hadapsar Road,Pune,Row House,7500000,1650,3,4545,20000,5,4,Moderate,Gym,Moderate,Low,"(Software Engineers, Government Officers, Bankers)",70000-220000
+Uruli Kanchan,Near Ayurveda Hospital,Pune,Apartment,4800000,1000,2,4800,13000,3,3,Low,Security,Moderate,Moderate,"(Doctors, Ayurvedic Practitioners, IT Support)",35000-120000
+Uruli Kanchan,Near Railway Station,Pune,Row House,7000000,1550,3,4516,19000,5,4,Moderate,Parking,Moderate,Low,"(Retailers, Consultants, Small Business Owners)",60000-180000
+Khadakwasla,Near NDA Road,Pune,Apartment,5200000,1100,2,4727,15000,4,3,Moderate,Security,Moderate,Moderate,"(Defense Employees, Teachers, Sports Coaches)",45000-140000
+Khadakwasla,Near Dam Area,Pune,Row House,8500000,1800,3,4722,23000,6,4,Moderate,Gated Community,Moderate,Low,"(Defense Officers, Professors, Entrepreneurs)",90000-300000
+Kirkatwadi,Near Sinhagad Road,Pune,Apartment,5500000,1200,2,4583,17000,4,3,Moderate,Parking,Moderate,Moderate,"(Teachers, Real Estate Brokers, Hospitality Managers)",50000-160000
+Shindawane,Near Pune-Pandharpur Road,Pune,Apartment,4800000,1000,2,4800,14000,3,2,Low,Security,Moderate,Moderate,"(Farmers, Teachers, Ayurvedic Practitioners)",35000-100000
+Shindawane,Near Temple Area,Pune,Row House,6800000,1500,3,4533,19000,5,3,Moderate,Gated Community,Moderate,Low,"(Small Business Owners, Government Employees, Consultants)",60000-180000
+Yewalewadi,Near Kondhwa Annexe,Pune,Apartment,6200000,1300,2,4769,18000,4,3,Moderate,Security,Moderate,Moderate,"(IT Professionals, Traders, Consultants)",55000-170000
+Yewalewadi,Near Bharti Vidyapeeth,Pune,Row House,9200000,1900,3,4842,25000,6,4,Moderate,Clubhouse,Moderate,Low,"(Lawyers, Doctors, Government Officers)",100000-400000
+Fursungi,Near SP Infocity,Pune,Apartment,6000000,1250,2,4800,17000,4,3,Moderate,Security,Moderate,Moderate,"(Software Engineers, Business Analysts, Consultants)",70000-250000
+Fursungi,Near Hadapsar Industrial Area,Pune,Row House,8500000,1750,3,4857,24000,6,4,Moderate,Gym,Moderate,Low,"(Factory Managers, HR Professionals, Investment Consultants)",90000-350000
+Loni Kalbhor,Near Pune-Solapur Highway,Pune,Apartment,5700000,1150,2,4957,16000,3,3,Moderate,Gated Society,Moderate,Moderate,"(IT Support, Teachers, Small Traders)",50000-150000
+Loni Kalbhor,Near College Road,Pune,Row House,8100000,1700,3,4765,22000,5,4,Moderate,Parking,Moderate,Low,"(Professors, Government Officers, Engineers)",75000-300000
+Dhomkhed,Near Pune-Solapur Highway,Pune,Apartment,4200000,950,2,4421,12000,3,2,Low,Gated Society,Moderate,Moderate,"(Farmers, Small Business Owners, Teachers)",30000-100000
+Dhomkhed,Near Industrial Zone,Pune,Row House,6500000,1500,3,4333,18000,4,3,Moderate,Gym,Moderate,Low,"(Factory Supervisors, Consultants, IT Technicians)",50000-150000
+Kesnand,Near Kesnand Phata,Pune,Apartment,4700000,1000,2,4700,14000,4,3,Moderate,Security,Moderate,Moderate,"(Agricultural Traders, IT Support, Small Entrepreneurs)",40000-120000
+Kesnand,Near Balaji Temple,Pune,Row House,7200000,1600,3,4500,20000,5,3,Moderate,Gated Community,Moderate,Low,"(School Teachers, Real Estate Agents, Traders)",60000-180000
+Perne,Near Alandi Road,Pune,Apartment,5000000,1100,2,4545,15000,4,3,Moderate,Security,Moderate,Moderate,"(Construction Workers, Shopkeepers, Mid-Level Executives)",40000-120000
+Perne,Near MIDC Area,Pune,Row House,7800000,1700,3,4588,21000,5,4,Moderate,Clubhouse,Moderate,Low,"(Factory Managers, Marketing Professionals, Self-Employed)",70000-200000
+Manjari Budruk,Near Manjari Station,Pune,Apartment,5300000,1150,2,4609,16000,5,3,Moderate,Parking,Moderate,Moderate,"(IT Technicians, Teachers, Local Business Owners)",50000-150000
+Theur,Near Chintamani Temple,Pune,Apartment,4900000,1050,2,4667,14000,4,3,Moderate,Gated Society,Moderate,Moderate,"(Pilgrimage Business Owners, Teachers, Consultants)",40000-110000
+Theur,Near Hadapsar Road,Pune,Row House,7500000,1650,3,4545,20000,5,4,Moderate,Gym,Moderate,Low,"(Software Engineers, Government Officers, Bankers)",70000-220000
+Uruli Kanchan,Near Ayurveda Hospital,Pune,Apartment,4800000,1000,2,4800,13000,3,3,Low,Security,Moderate,Moderate,"(Doctors, Ayurvedic Practitioners, IT Support)",35000-120000
+Uruli Kanchan,Near Railway Station,Pune,Row House,7000000,1550,3,4516,19000,5,4,Moderate,Parking,Moderate,Low,"(Retailers, Consultants, Small Business Owners)",60000-180000
+Khadakwasla,Near NDA Road,Pune,Apartment,5200000,1100,2,4727,15000,4,3,Moderate,Security,Moderate,Moderate,"(Defense Employees, Teachers, Sports Coaches)",45000-140000
+Khadakwasla,Near Dam Area,Pune,Row House,8500000,1800,3,4722,23000,6,4,Moderate,Gated Community,Moderate,Low,"(Defense Officers, Professors, Entrepreneurs)",90000-300000
+Kirkatwadi,Near Sinhagad Road,Pune,Apartment,5500000,1200,2,4583,17000,4,3,Moderate,Parking,Moderate,Moderate,"(Teachers, Real Estate Brokers, Hospitality Managers)",50000-160000
+Shindawane,Near Pune-Pandharpur Road,Pune,Apartment,4800000,1000,2,4800,14000,3,2,Low,Security,Moderate,Moderate,"(Farmers, Teachers, Ayurvedic Practitioners)",35000-100000
+Shindawane,Near Temple Area,Pune,Row House,6800000,1500,3,4533,19000,5,3,Moderate,Gated Community,Moderate,Low,"(Small Business Owners, Government Employees, Consultants)",60000-180000
+Yewalewadi,Near Kondhwa Annexe,Pune,Apartment,6200000,1300,2,4769,18000,4,3,Moderate,Security,Moderate,Moderate,"(IT Professionals, Traders, Consultants)",55000-170000
+Yewalewadi,Near Bharti Vidyapeeth,Pune,Row House,9200000,1900,3,4842,25000,6,4,Moderate,Clubhouse,Moderate,Low,"(Lawyers, Doctors, Government Officers)",100000-400000
+Fursungi,Near SP Infocity,Pune,Apartment,6000000,1250,2,4800,17000,4,3,Moderate,Security,Moderate,Moderate,"(Software Engineers, Business Analysts, Consultants)",70000-250000
+Fursungi,Near Hadapsar Industrial Area,Pune,Row House,8500000,1750,3,4857,24000,6,4,Moderate,Gym,Moderate,Low,"(Factory Managers, HR Professionals, Investment Consultants)",90000-350000
+Loni Kalbhor,Near Pune-Solapur Highway,Pune,Apartment,5700000,1150,2,4957,16000,3,3,Moderate,Gated Society,Moderate,Moderate,"(IT Support, Teachers, Small Traders)",50000-150000
+Loni Kalbhor,Near College Road,Pune,Row House,8100000,1700,3,4765,22000,5,4,Moderate,Parking,Moderate,Low,"(Professors, Government Officers, Engineers)",75000-300000
+Khadki,Near Khadki Railway Station,Pune,Apartment,8700000,1250,3,6960,26000,6,5,High,Gated Society,High,Low,"(Defense Officer, Government Employee, Engineer)",100000-400000
+Khadki,Bazar Area,Pune,Apartment,7800000,1100,2,7090,22000,5,4,Moderate,Clubhouse,Moderate,Moderate,"(Trader, Shop Owner, Teacher)",60000-200000
+Khadki,BOI Colony,Pune,Row House,11000000,1800,3,6111,30000,6,5,High,Security,High,Low,"(Retired Army Officer, Banker, Consultant)",150000-500000
+Pune Cantonment,MG Road,Pune,Apartment,12500000,1600,3,7813,40000,8,7,Very High,Gated Community,Very High,Low,"(Senior Bureaucrat, Business Owner, Lawyer)",200000-600000
+Pune Cantonment,Ghorpadi,Pune,Apartment,9800000,1400,3,7000,30000,7,6,High,Security,High,Low,"(Defense Staff, Doctor, Architect)",150000-500000
+Pune Cantonment,East Street,Pune,Apartment,11500000,1500,3,7667,38000,8,7,Very High,Gym,Very High,Low,"(Retail Business Owner, Marketing Executive, Bank Manager)",120000-500000
+Lohegaon,Near Airport,Pune,Apartment,8200000,1300,3,6308,25000,6,5,High,Gated Society,High,Low,"(Pilot, Air Force Officer, IT Professional)",100000-400000
+Lohegaon,Dhanori Road,Pune,Apartment,7800000,1200,3,6500,22000,5,4,Moderate,Parking,Moderate,Moderate,"(Software Developer, Security Personnel, Technician)",70000-200000
+Dighi,Near Alandi Road,Pune,Apartment,7200000,1200,3,6000,20000,5,4,Moderate,Security,Moderate,Moderate,"(Industrial Worker, Small Business Owner, Accountant)",60000-180000
+Dighi,Ashok Nagar,Pune,Apartment,6800000,1100,2,6181,17000,4,3,Moderate,Gym,Moderate,Moderate,"(Professor, Research Scientist, College Lecturer)",70000-180000
+Bhosari,Near Nashik Phata,Pune,Apartment,9000000,1400,3,6429,28000,6,5,High,Parking,High,Low,"(Factory Supervisor, Mechanical Engineer, HR Manager)",100000-300000
+Pimpri,Thermax Chowk,Pune,Apartment,9600000,1450,3,6621,29000,6,5,High,Gated Security,High,Low,"(Pharmaceutical Scientist, Manager, Data Analyst)",120000-400000
+Chinchwad,Chapekar Chowk,Pune,Apartment,8900000,1300,3,6846,26000,6,5,High,Clubhouse,High,Low,"(Automobile Engineer, Bank Executive, Teacher)",100000-350000
+Chakan,Shikrapur Road,Pune,Apartment,7500000,1200,3,6250,20000,5,4,Moderate,Security,Moderate,Moderate,"(Logistics Manager, Factory Worker, Consultant)",80000-250000
+Talegaon,Near Floriculture Park,Pune,Villa,14000000,2200,4,6364,50000,7,6,High,Swimming Pool,High,Low,"(Resort Owner, Manufacturing Head, Export Business)",250000-800000
+Khed,Near Chakan MIDC,Pune,Row House,6700000,1300,3,5154,19000,4,3,Moderate,Parking,Moderate,Moderate,"(Shop Owner, Industrial Worker, Real Estate Agent)",50000-150000
+Nigdi,Near Bhakti Shakti,Pune,Apartment,8900000,1350,3,6593,27000,6,5,High,Gated Society,High,Low,"(Government Employee, Architect, Chartered Accountant)",120000-400000
+Nigdi,Yamuna Nagar,Pune,Apartment,8700000,1300,3,6692,26000,6,5,High,Security,High,Low,"(Software Consultant, Mechanical Engineer, Pharmacist)",100000-350000
+Shirur,Near Ranjangaon,Pune,Apartment,6200000,1100,2,5636,16000,4,3,Moderate,Gym,Moderate,Moderate,"(Industrial Worker, Maintenance Engineer, Shop Owner)",60000-150000
+Jejuri,Near MIDC,Pune,Row House,5500000,1400,3,3929,18000,3,2,Moderate,Parking,Moderate,Moderate,"(Temple Priest, Tourism Business, Local Trader)",40000-120000
+Rajgurunagar,Near Chakan,Pune,Apartment,6500000,1200,3,5417,19000,4,3,Moderate,Security,Moderate,Moderate,"(Farmer, Government Clerk, Real Estate Agent)",50000-150000
+Kamshet,Near Old Mumbai-Pune Highway,Pune,Villa,17000000,2800,4,6071,70000,8,7,Very High,Gated Community,Very High,Low,"(Resort Owner, Investment Banker, Entrepreneur)",300000+
+Lavale,Near MIT Pune Campus,Pune,Apartment,7500000,1200,2,6250,20000,5,4,Moderate,Gym,Moderate,Moderate,"(Professor, Researcher, Corporate Trainer)",60000-200000
+Pirangut,Near Hinjewadi Phase 3,Pune,Apartment,7800000,1200,3,6500,22000,5,4,Moderate,Gated Society,Moderate,Moderate,"(IT Engineer, Accountant, Marketing Executive)",80000-250000
+Mulshi,Darumbre Village,Pune,Row House,6000000,1300,3,4615,18000,3,2,Moderate,Parking,Moderate,Moderate,"(Farmer, Organic Business Owner, Local Builder)",40000-120000
+Pashan,Bavdhan Road,Pune,Apartment,11500000,1500,3,7667,35000,7,6,High,Gated Security,High,Low,"(Lawyer, Consultant, IT Director)",150000-500000
+Bavdhan,Chandani Chowk,Pune,Apartment,10800000,1450,3,7448,34000,7,6,High,Clubhouse,High,Low,"(Software Engineer, Financial Analyst, Startup Owner)",120000-400000
+Narhe,Near Sinhagad College,Pune,Apartment,7600000,1200,3,6333,21000,5,4,Moderate,Security,Moderate,Moderate,"(Professor, Civil Engineer, Sales Manager)",70000-200000
+Ambegaon Budruk,Near ISKCON Temple,Pune,Apartment,8000000,1300,3,6154,23000,6,5,High,Gated Community,High,Low,"(Doctor, Financial Advisor, Business Consultant)",100000-350000
+Kasarsai,Near Hinjewadi,Pune,Apartment,7500000,1100,2,6818,18000,5,4,High,Gated Community,High,Low,"(Software Developer, Data Analyst, IT Consultant)",80000-250000
+Marunji,Near Phase 3 Hinjewadi,Pune,Apartment,8200000,1200,2,6833,20000,6,4,High,Security,High,Low,"(Project Manager, IT Support, Engineer)",90000-280000
+Moshi,Near Spine Road,Pune,Apartment,8900000,1250,3,7120,25000,6,5,High,Clubhouse,High,Low,"(Software Engineer, Marketing Executive, Financial Analyst)",100000-300000
+Charholi,Near D.Y. Patil Knowledge City,Pune,Apartment,7800000,1200,3,6500,21000,5,4,High,Gym,High,Low,"(HR Manager, Teacher, Consultant)",75000-220000
+Vadgaon Maval,Near Expressway,Pune,Villa,16500000,3000,4,5500,60000,8,6,Moderate,Garden,High,Low,"(Investor, Business Owner, Entrepreneur)",200000-600000
+Khandala,Near Karla Caves,Pune,Villa,24000000,4000,5,6000,85000,9,7,Very High,Swimming Pool,Very High,Low,"(Startup Founder, Senior Executive, Investor)",300000+
+Junnar,Near Shivneri Fort,Pune,House,5500000,2000,3,2750,15000,4,3,Moderate,Parking,Moderate,Moderate,"(Farmer, Local Businessman, Government Employee)",40000-150000
+Otur,Near Junnar,Pune,House,5000000,1800,3,2778,14000,4,3,Moderate,Garden,Moderate,Moderate,"(Shop Owner, Agricultural Consultant, Teacher)",35000-120000
+Manchar,Near Pune-Nashik Highway,Pune,Apartment,6700000,1100,2,6091,18000,4,3,Moderate,Security,Moderate,Moderate,"(Retail Manager, Sales Executive, Pharmacist)",60000-150000
+Pargaon,Near Bhigwan Road,Pune,House,4200000,1500,2,2800,10000,3,2,Moderate,Parking,Moderate,Moderate,"(Local Trader, Teacher, Hotel Owner)",30000-100000
+Morgaon,Near Jejuri,Pune,House,4500000,1600,3,2813,12000,3,2,Moderate,Garden,Moderate,Moderate,"(Priest, Shop Owner, Guide)",35000-100000
+Supa,Near MIDC Area,Pune,Apartment,6000000,1200,2,5000,16000,4,3,High,Gym,High,Low,"(Industrial Worker, IT Professional, Supervisor)",70000-200000
+Velhe,Near Torna Fort,Pune,House,4800000,1700,3,2824,13000,3,2,Moderate,Security,Moderate,Moderate,"(Hotel Owner, Local Guide, Agriculture Consultant)",40000-110000
+Nasrapur,Near NH-48,Pune,House,5200000,1800,3,2889,14000,4,3,Moderate,Parking,Moderate,Moderate,"(Government Employee, Businessman, Civil Engineer)",45000-130000
+Uruli Kanchan,Near Railway Station,Pune,Apartment,7200000,1250,3,5760,21000,5,4,High,Gym,High,Low,"(Software Engineer, Teacher, Consultant)",80000-250000
+Theur,Near Chintamani Temple,Pune,House,4900000,1700,3,2882,12000,3,2,Moderate,Parking,Moderate,Moderate,"(Religious Leader, Farmer, Shop Owner)",40000-110000
+Paud,Near Mulshi Road,Pune,Villa,15000000,2800,4,5357,55000,8,6,High,Swimming Pool,High,Low,"(Business Owner, Investor, Corporate Executive)",200000-600000
+Bhugaon,Near Chandani Chowk,Pune,Apartment,10200000,1500,3,6800,29000,6,5,Very High,Clubhouse,High,Low,"(IT Manager, Lawyer, Marketing Head)",150000-400000
+Shivane,Near NDA Road,Pune,Apartment,8700000,1300,3,6692,26000,6,5,High,Gated Community,High,Low,"(Bank Manager, Software Developer, Real Estate Agent)",100000-350000
+Uttamnagar,Near Warje,Pune,Apartment,9200000,1400,3,6571,28000,6,5,High,Gym,High,Low,"(Teacher, Financial Analyst, Sales Director)",100000-300000
+Warje Malwadi,Near Sinhagad Road,Pune,Apartment,9500000,1450,3,6552,29000,6,5,High,Security,High,Low,"(Marketing Executive, IT Engineer, Consultant)",90000-280000
+Dhayari,Near Narhe,Pune,Apartment,9000000,1400,3,6429,27000,6,5,High,Parking,High,Low,"(HR Manager, Retail Executive, Software Developer)",85000-250000
+Ghotawade,Near Pirangut,Pune,Apartment,8500000,1300,3,6538,25000,5,4,High,Gated Security,High,Low,"(Project Engineer, Architect, Consultant)",80000-250000
+Nere,Near Hinjewadi Phase 3,Pune,Apartment,7800000,1250,3,6240,22000,5,4,High,Security,High,Low,"(Software Engineer, Financial Consultant, Business Analyst)",70000-200000
+Wadebolai,Near Wagholi,Pune,Apartment,7500000,1200,3,6250,20000,5,4,Moderate,Parking,Moderate,Moderate,"(Professor, Pharmacist, Accountant)",50000-120000
+Kharki,Near Khadki Cantonment,Pune,Apartment,9800000,1350,3,7259,28000,6,5,High,Gym,High,Low,"(Military Officer, Government Employee, Business Consultant)",120000-350000
+Dhomkhed,Near Alandi,Pune,House,4800000,1700,3,2824,13000,3,2,Moderate,Garden,Moderate,Moderate,"(Agricultural Consultant, Temple Priest, Retailer)",40000-120000
+Kesnand,Near Wagholi,Pune,Apartment,6700000,1100,3,6091,18000,4,3,Moderate,Security,Moderate,Moderate,"(Software Developer, Marketing Professional, HR Manager)",60000-150000
+Kasarsai,Near Hinjewadi,Pune,Apartment,7500000,1100,2,6818,18000,5,4,High,Gated Community,High,Low,"(Software Developer, Data Analyst, IT Consultant)",80000-250000
+Marunji,Near Phase 3 Hinjewadi,Pune,Apartment,8200000,1200,2,6833,20000,6,4,High,Security,High,Low,"(Project Manager, IT Support, Engineer)",90000-280000
+Moshi,Near Spine Road,Pune,Apartment,8900000,1250,3,7120,25000,6,5,High,Clubhouse,High,Low,"(Software Engineer, Marketing Executive, Financial Analyst)",100000-300000
+Charholi,Near D.Y. Patil Knowledge City,Pune,Apartment,7800000,1200,3,6500,21000,5,4,High,Gym,High,Low,"(HR Manager, Teacher, Consultant)",75000-220000
+Vadgaon Maval,Near Expressway,Pune,Villa,16500000,3000,4,5500,60000,8,6,Moderate,Garden,High,Low,"(Investor, Business Owner, Entrepreneur)",200000-600000
+Khandala,Near Karla Caves,Pune,Villa,24000000,4000,5,6000,85000,9,7,Very High,Swimming Pool,Very High,Low,"(Startup Founder, Senior Executive, Investor)",300000+
+Junnar,Near Shivneri Fort,Pune,House,5500000,2000,3,2750,15000,4,3,Moderate,Parking,Moderate,Moderate,"(Farmer, Local Businessman, Government Employee)",40000-150000
+Otur,Near Junnar,Pune,House,5000000,1800,3,2778,14000,4,3,Moderate,Garden,Moderate,Moderate,"(Shop Owner, Agricultural Consultant, Teacher)",35000-120000
+Manchar,Near Pune-Nashik Highway,Pune,Apartment,6700000,1100,2,6091,18000,4,3,Moderate,Security,Moderate,Moderate,"(Retail Manager, Sales Executive, Pharmacist)",60000-150000
+Pargaon,Near Bhigwan Road,Pune,House,4200000,1500,2,2800,10000,3,2,Moderate,Parking,Moderate,Moderate,"(Local Trader, Teacher, Hotel Owner)",30000-100000
+Morgaon,Near Jejuri,Pune,House,4500000,1600,3,2813,12000,3,2,Moderate,Garden,Moderate,Moderate,"(Priest, Shop Owner, Guide)",35000-100000
+Supa,Near MIDC Area,Pune,Apartment,6000000,1200,2,5000,16000,4,3,High,Gym,High,Low,"(Industrial Worker, IT Professional, Supervisor)",70000-200000
+Velhe,Near Torna Fort,Pune,House,4800000,1700,3,2824,13000,3,2,Moderate,Security,Moderate,Moderate,"(Hotel Owner, Local Guide, Agriculture Consultant)",40000-110000
+Nasrapur,Near NH-48,Pune,House,5200000,1800,3,2889,14000,4,3,Moderate,Parking,Moderate,Moderate,"(Government Employee, Businessman, Civil Engineer)",45000-130000
+Uruli Kanchan,Near Railway Station,Pune,Apartment,7200000,1250,3,5760,21000,5,4,High,Gym,High,Low,"(Software Engineer, Teacher, Consultant)",80000-250000
+Theur,Near Chintamani Temple,Pune,House,4900000,1700,3,2882,12000,3,2,Moderate,Parking,Moderate,Moderate,"(Religious Leader, Farmer, Shop Owner)",40000-110000
+Paud,Near Mulshi Road,Pune,Villa,15000000,2800,4,5357,55000,8,6,High,Swimming Pool,High,Low,"(Business Owner, Investor, Corporate Executive)",200000-600000
+Bhugaon,Near Chandani Chowk,Pune,Apartment,10200000,1500,3,6800,29000,6,5,Very High,Clubhouse,High,Low,"(IT Manager, Lawyer, Marketing Head)",150000-400000
+Shivane,Near NDA Road,Pune,Apartment,8700000,1300,3,6692,26000,6,5,High,Gated Community,High,Low,"(Bank Manager, Software Developer, Real Estate Agent)",100000-350000
+Uttamnagar,Near Warje,Pune,Apartment,9200000,1400,3,6571,28000,6,5,High,Gym,High,Low,"(Teacher, Financial Analyst, Sales Director)",100000-300000
+Warje Malwadi,Near Sinhagad Road,Pune,Apartment,9500000,1450,3,6552,29000,6,5,High,Security,High,Low,"(Marketing Executive, IT Engineer, Consultant)",90000-280000
+Dhayari,Near Narhe,Pune,Apartment,9000000,1400,3,6429,27000,6,5,High,Parking,High,Low,"(HR Manager, Retail Executive, Software Developer)",85000-250000
+Ghotawade,Near Pirangut,Pune,Apartment,8500000,1300,3,6538,25000,5,4,High,Gated Security,High,Low,"(Project Engineer, Architect, Consultant)",80000-250000
+Nere,Near Hinjewadi Phase 3,Pune,Apartment,7800000,1250,3,6240,22000,5,4,High,Security,High,Low,"(Software Engineer, Financial Consultant, Business Analyst)",70000-200000
+Wadebolai,Near Wagholi,Pune,Apartment,7500000,1200,3,6250,20000,5,4,Moderate,Parking,Moderate,Moderate,"(Professor, Pharmacist, Accountant)",50000-120000
+Kharki,Near Khadki Cantonment,Pune,Apartment,9800000,1350,3,7259,28000,6,5,High,Gym,High,Low,"(Military Officer, Government Employee, Business Consultant)",120000-350000
+Dhomkhed,Near Alandi,Pune,House,4800000,1700,3,2824,13000,3,2,Moderate,Garden,Moderate,Moderate,"(Agricultural Consultant, Temple Priest, Retailer)",40000-120000
+Kesnand,Near Wagholi,Pune,Apartment,6700000,1100,3,6091,18000,4,3,Moderate,Security,Moderate,Moderate,"(Software Developer, Marketing Professional, HR Manager)",60000-150000
+Bhima Koregaon,Near Pune-Ahmednagar Road,Pune,House,5200000,1800,3,2889,14000,4,3,Moderate,Garden,Moderate,Moderate,"(Farmer, Shop Owner, Local Businessman)",45000-130000
+Koregaon Park,North Main Road,Pune,Apartment,18500000,1600,3,11563,50000,8,7,Very High,Gym,Very High,Low,"(Investment Banker, Entrepreneur, Senior Executive, Housemaid, Tailor, Watchman)",200000-800000
+Baner,Baner Road,Pune,Apartment,14500000,1400,3,10357,38000,7,6,High,Clubhouse,High,Low,"(Software Engineer, Consultant, IT Director, Housemaid, Tailor, Watchman)",150000-500000
+Balewadi,Balewadi High Street,Pune,Penthouse,16500000,2400,4,6875,85000,9,7,Very High,Swimming Pool,Very High,Low,"(Startup Founder, Senior Executive, Investor, Housemaid, Tailor, Watchman)",300000+
+Aundh,DP Road,Pune,Apartment,13500000,1500,3,9000,40000,7,6,High,Gated Security,High,Low,"(Doctor, Lawyer, Business Owner, Housemaid, Tailor, Watchman)",120000-400000
+Aundh,Westend Colony,Pune,Apartment,13800000,1550,3,8900,42000,8,6,High,Clubhouse,High,Low,"(Bank Manager, Consultant, Architect, Housemaid, Tailor, Watchman)",120000-350000
+Aundh,Sanghvi Nagar,Pune,Apartment,9800000,1300,2,7538,27000,6,5,High,Gated Society,High,Low,"(Marketing Executive, Software Engineer, Financial Analyst, Housemaid, Tailor, Watchman)",100000-300000
+Hinjewadi,Phase 1,Pune,Apartment,12500000,1400,3,8929,35000,7,6,High,Gym,High,Low,"(Software Developer, Data Scientist, Product Manager, Housemaid, Tailor, Watchman)",100000-350000
+Hinjewadi,Phase 2,Pune,Apartment,11500000,1300,3,8846,33000,6,5,High,Swimming Pool,High,Low,"(IT Consultant, Business Analyst, Software Tester, Housemaid, Tailor, Watchman)",80000-250000
+Hinjewadi,Phase 3,Pune,Apartment,11000000,1250,2,8800,31000,5,5,High,Parking,High,Low,"(HR Manager, Data Engineer, QA Engineer, Housemaid, Tailor, Watchman)",75000-220000
+Wakad,Dutta Mandir Road,Pune,Apartment,9800000,1300,3,7538,27000,6,5,High,Gated Society,High,Low,"(Software Engineer, Financial Analyst, Architect, Housemaid, Tailor, Watchman)",100000-300000
+Wakad,Kaspate Vasti,Pune,Apartment,9600000,1200,3,8000,26000,5,4,High,Security,High,Low,"(Sales Executive, HR Professional, Business Consultant, Housemaid, Tailor, Watchman)",80000-250000
+Tathawade,Near JSPM College,Pune,Apartment,7500000,1200,3,6250,20000,5,4,Moderate,Parking,Moderate,Moderate,"(Professor, Pharmacist, Accountant, Housemaid, Tailor, Watchman)",50000-120000
+Tathawade,Dange Chowk,Pune,Apartment,7800000,1250,3,6240,22000,6,4,Moderate,Gym,Moderate,Moderate,"(Marketing Manager, IT Support, Financial Advisor, Housemaid, Tailor, Watchman)",60000-140000
+Ravet,Akurdi Railway Station Area,Pune,Apartment,6800000,1000,2,6800,17000,4,3,Moderate,Gym,Moderate,Moderate,"(Engineer, Marketing Executive, Architect, Housemaid, Tailor, Watchman)",60000-150000
+Ravet,Dehu Road,Pune,Apartment,7000000,1100,2,6364,18000,4,3,Moderate,Parking,Moderate,Moderate,"(Sales Manager, Software Developer, Consultant, Housemaid, Tailor, Watchman)",70000-180000
+Pimple Saudagar,Kunal Icon Road,Pune,Apartment,9200000,1250,3,7360,27000,6,5,High,Gated Community,High,Low,"(IT Manager, Financial Analyst, Professor, Housemaid, Tailor, Watchman)",80000-200000
+Pimple Saudagar,Kate Wasti,Pune,Apartment,8900000,1200,3,7417,26000,5,4,High,Gated Society,High,Low,"(Retail Manager, HR Executive, Civil Engineer, Housemaid, Tailor, Watchman)",70000-180000
+Vishrantwadi,Airport Road,Pune,Apartment,6700000,1100,3,6091,18000,4,3,Moderate,Security,Moderate,Moderate,"(Software Developer, Marketing Professional, HR Manager, Housemaid, Tailor, Watchman)",60000-150000
+Hadapsar,Magarpatta Road,Pune,Apartment,8700000,1200,3,7250,25000,6,5,High,Gym,High,Low,"(Doctor, Consultant, Real Estate Agent, Housemaid, Tailor, Watchman)",100000-500000
+Magarpatta,South Gate,Pune,Apartment,12000000,1400,3,8571,38000,7,6,Very High,Clubhouse,Very High,Low,"(Corporate Executive, IT Director, Business Owner, Housemaid, Tailor, Watchman)",200000-600000
+Kharadi,EON IT Park,Pune,Apartment,11500000,1400,3,8214,35000,7,6,Very High,Gated Community,Very High,Low,"(Software Engineer, Investment Banker, Startup Founder, Housemaid, Tailor, Watchman)",150000-500000
+Wagholi,Raisoni College Area,Pune,Apartment,5400000,950,2,5684,14000,3,2,Moderate,Gated Society,Moderate,Moderate,"(Students, Software Trainee, Freelancer, Housemaid, Tailor, Watchman)",30000-100000
+Wagholi,Bakori Road,Pune,Apartment,6200000,1050,2,5905,16000,4,3,Moderate,Security,Moderate,Moderate,"(College Lecturer, Sales Executive, Graphic Designer, Housemaid, Tailor, Watchman)",50000-120000
+Dhanori,DY Patil College Road,Pune,Apartment,6700000,1100,3,6091,18000,4,3,Moderate,Security,Moderate,Moderate,"(Software Developer, Marketing Professional, HR Manager, Housemaid, Tailor, Watchman)",60000-150000
+Mundhwa,Keshav Nagar,Pune,Apartment,10500000,1400,3,7500,30000,6,5,Very High,Security,High,Low,"(Software Engineer, Consultant, Entrepreneur, Housemaid, Tailor, Watchman)",100000-300000
+Vadgaon Sheri,Near Nagar Road,Pune,Apartment,9700000,1300,3,7462,28000,6,5,High,Gated Security,High,Low,"(IT Professional, Financial Analyst, Marketing Manager, Housemaid, Tailor, Watchman)",100000-300000
+Kalyani Nagar,Gold Adlabs Area,Pune,Apartment,12500000,1500,3,8333,40000,8,6,Very High,Gym,Very High,Low,"(Investment Banker, Senior Consultant, Business Owner, Housemaid, Tailor, Watchman)",200000-600000
+Bavdhan,Chandani Chowk,Pune,Apartment,9800000,1400,3,7000,25000,6,5,High,Security,High,Low,"(Software Engineer, Consultant, Business Analyst, Housemaid, Tailor, Watchman)",100000-250000
+Undri,Near Bishop’s School,Pune,Apartment,7200000,1100,3,6545,18000,5,4,Moderate,Gym,Moderate,Moderate,"(Professor, Architect, Marketing Professional, Housemaid, Tailor, Watchman)",60000-200000
+Koregaon Park,Lane 5,Pune,Apartment,19500000,1700,3,11471,55000,9,8,Very High,Gated Security,Very High,Low,"(Entrepreneur, Consultant, Investment Banker, Housemaid, Tailor, Watchman)",250000-800000
+Koregaon Park,Lane 7,Pune,Penthouse,35000000,3000,4,11667,120000,10,9,Very High,Swimming Pool,Very High,Low,"(CEO, Business Owner, Investor, Housemaid, Tailor, Watchman)",400000-1000000
+Viman Nagar,Near Symbiosis College,Pune,Apartment,16000000,1500,3,10667,45000,8,7,Very High,Gym,Very High,Low,"(Corporate Executive, IT Professional, Marketing Director, Housemaid, Tailor, Watchman)",200000-600000
+Viman Nagar,Town Square,Pune,Apartment,14000000,1300,3,10769,38000,7,6,Very High,Parking,Very High,Low,"(Software Engineer, Analyst, Business Consultant, Housemaid, Tailor, Watchman)",150000-450000
+Kharadi,World Trade Center Area,Pune,Apartment,12500000,1400,3,8929,35000,7,6,Very High,Clubhouse,Very High,Low,"(Software Developer, Investment Banker, Startup Founder, Housemaid, Tailor, Watchman)",150000-500000
+Kharadi,Riverdale,Pune,Apartment,9800000,1300,3,7538,28000,6,5,High,Gated Society,High,Low,"(Data Scientist, Financial Analyst, Sales Executive, Housemaid, Tailor, Watchman)",100000-350000
+Hinjewadi,Phase 1,Pune,Apartment,11500000,1400,3,8214,32000,7,6,High,Gym,High,Low,"(IT Consultant, Business Analyst, Software Engineer, Housemaid, Tailor, Watchman)",80000-250000
+Hinjewadi,Phase 3,Pune,Villa,25000000,2800,4,8929,65000,9,7,High,Swimming Pool,High,Low,"(Tech Lead, Senior Product Manager, IT Director, Housemaid, Tailor, Watchman)",200000-500000
+Baner,Pancard Club Road,Pune,Apartment,15000000,1500,3,10000,40000,7,6,High,Clubhouse,High,Low,"(Senior Engineer, Doctor, Lawyer, Housemaid, Tailor, Watchman)",120000-400000
+Baner,Veerbhadra Nagar,Pune,Apartment,9800000,1300,2,7538,28000,6,5,High,Gated Security,High,Low,"(Marketing Executive, Data Analyst, IT Professional, Housemaid, Tailor, Watchman)",100000-300000
+Balewadi,Balewadi High Street,Pune,Penthouse,17000000,2400,4,7083,90000,9,7,Very High,Swimming Pool,Very High,Low,"(Startup Founder, Senior Executive, Investor, Housemaid, Tailor, Watchman)",300000+
+Aundh,Baner Road,Pune,Apartment,13500000,1450,3,9310,41000,7,6,High,Gated Security,High,Low,"(Doctor, Lawyer, Business Owner, Housemaid, Tailor, Watchman)",120000-400000
+Aundh,Seasons Road,Pune,Apartment,14000000,1550,3,9032,42000,8,6,High,Clubhouse,High,Low,"(Bank Manager, Consultant, Architect, Housemaid, Tailor, Watchman)",120000-350000
+Wakad,Vishal Nagar,Pune,Apartment,9800000,1300,3,7538,28000,6,5,High,Gated Society,High,Low,"(Software Engineer, Financial Analyst, Architect, Housemaid, Tailor, Watchman)",100000-300000
+Wakad,Datta Mandir Road,Pune,Apartment,9400000,1250,2,7520,25000,5,4,High,Security,High,Low,"(Sales Executive, HR Professional, Business Consultant, Housemaid, Tailor, Watchman)",80000-250000
+Tathawade,Near JSPM College,Pune,Apartment,7700000,1200,3,6417,22000,5,4,Moderate,Parking,Moderate,Moderate,"(Professor, Pharmacist, Accountant, Housemaid, Tailor, Watchman)",50000-120000
+Tathawade,Krishna Chowk,Pune,Apartment,8000000,1300,3,6154,24000,6,4,Moderate,Gym,Moderate,Moderate,"(Marketing Manager, IT Support, Financial Advisor, Housemaid, Tailor, Watchman)",60000-140000
+Ravet,Sentosa Resort Area,Pune,Apartment,7200000,1100,2,6545,18000,4,3,Moderate,Gym,Moderate,Moderate,"(Engineer, Marketing Executive, Architect, Housemaid, Tailor, Watchman)",60000-150000
+Ravet,Dehu Road,Pune,Apartment,7000000,1050,2,6667,17000,4,3,Moderate,Parking,Moderate,Moderate,"(Sales Manager, Software Developer, Consultant, Housemaid, Tailor, Watchman)",70000-180000
+Kalyani Nagar,Gold Adlabs Area,Pune,Apartment,12500000,1500,3,8333,40000,8,6,Very High,Gym,Very High,Low,"(Investment Banker, Senior Consultant, Business Owner, Housemaid, Tailor, Watchman)",200000-600000
+Magarpatta,Near DC Office,Pune,Apartment,11000000,1400,3,7857,35000,7,6,Very High,Gated Security,Very High,Low,"(Corporate Executive, IT Director, Business Owner, Housemaid, Tailor, Watchman)",200000-600000
+Dhanori,DY Patil College Road,Pune,Apartment,7500000,1200,3,6250,20000,4,3,Moderate,Security,Moderate,Moderate,"(Software Developer, Marketing Professional, HR Manager, Housemaid, Tailor, Watchman)",60000-150000
+Mundhwa,Keshav Nagar,Pune,Apartment,10500000,1400,3,7500,32000,6,5,Very High,Security,High,Low,"(Software Engineer, Consultant, Entrepreneur, Housemaid, Tailor, Watchman)",100000-300000
+Vadgaon Sheri,Near Nagar Road,Pune,Apartment,9700000,1300,3,7462,28000,6,5,High,Gated Security,High,Low,"(IT Professional, Financial Analyst, Marketing Manager, Housemaid, Tailor, Watchman)",100000-300000
+Lohegaon,Near Airport Road,Pune,Apartment,6200000,1100,3,5636,16000,4,3,Moderate,Security,Moderate,Moderate,"(Retail Manager, HR Executive, Civil Engineer, Housemaid, Tailor, Watchman)",70000-180000
+Katraj,Balaji Nagar,Pune,Apartment,5800000,1050,2,5524,15000,4,3,Moderate,Gym,Moderate,Moderate,"(Teacher, Nurse, Store Manager, Housemaid, Tailor, Watchman)",50000-120000
+Nanded City,Nanded Bridge Area,Pune,Apartment,9000000,1400,3,6429,25000,6,5,High,Gated Community,High,Low,"(IT Consultant, Marketing Director, Engineer, Housemaid, Tailor, Watchman)",100000-250000
+Hadapsar,Magarpatta Road,Pune,Apartment,8700000,1200,3,7250,25000,6,5,High,Gym,High,Low,"(Doctor, Consultant, Real Estate Agent, Housemaid, Tailor, Watchman)",100000-500000
+Shivaji Nagar,Jangli Maharaj Road,Pune,Apartment,19500000,1600,3,12188,50000,9,8,Very High,Clubhouse,Very High,Low,"(Lawyer, Professor, Senior Business Consultant, Housemaid, Tailor, Watchman)",200000-700000
+Sinhagad Road,Near Navale Bridge,Pune,Apartment,6500000,1100,3,5909,18000,4,3,Moderate,Gym,Moderate,Moderate,"(Bank Employee, Teacher, Civil Engineer, Housemaid, Tailor, Watchman)",60000-150000
+Kondhwa,Salunke Vihar,Pune,Apartment,7800000,1200,3,6500,20000,5,4,Moderate,Security,Moderate,Moderate,"(Small Business Owner, Software Engineer, HR Professional, Housemaid, Tailor, Watchman)",80000-200000
+Shivajinagar,Model Colony,Pune,Apartment,14500000,1350,3,10741,42000,8,7,Very High,Gated Community,Very High,Low,"(Lawyer, Investment Banker, Professor, Housemaid, Tailor, Watchman)",180000-600000
+Kondhwa,NIBM Road,Pune,Apartment,9800000,1400,3,7000,27000,6,5,High,Gym,High,Low,"(Software Engineer, HR Manager, Digital Marketer, Housemaid, Tailor, Watchman)",100000-300000
+Lohegaon,Airport Road,Pune,Apartment,7200000,1100,2,6545,18000,4,3,Moderate,Parking,Moderate,Moderate,"(Pilot, Air Traffic Controller, Security Analyst, Housemaid, Tailor, Watchman)",70000-250000
+BT Kawade Road,Ganga Satellite,Pune,Apartment,11500000,1300,3,8846,35000,7,6,Very High,Clubhouse,Very High,Low,"(IT Consultant, Senior Analyst, Doctor, Housemaid, Tailor, Watchman)",150000-450000
+Warje,Atul Nagar,Pune,Apartment,7600000,1200,2,6333,22000,5,4,Moderate,Security,Moderate,Moderate,"(Teacher, Sales Manager, Architect, Housemaid, Tailor, Watchman)",60000-180000
+Vadgaon Budruk,Sinhagad Road,Pune,Apartment,8500000,1300,3,6538,25000,6,5,High,Gated Society,High,Low,"(Finance Executive, Consultant, Lawyer, Housemaid, Tailor, Watchman)",80000-250000
+Pashan,Pashan Sus Road,Pune,Apartment,11200000,1450,3,7724,33000,7,6,High,Clubhouse,High,Low,"(Professor, Data Scientist, Entrepreneur, Housemaid, Tailor, Watchman)",150000-500000
+Bhugaon,Near Manas Lake,Pune,Apartment,9500000,1400,3,6785,28000,5,4,Moderate,Parking,Moderate,Moderate,"(Bank Manager, Investment Advisor, Consultant, Housemaid, Tailor, Watchman)",90000-300000
+Chakan,Chakan MIDC,Pune,Apartment,7800000,1200,3,6500,22000,5,4,Moderate,Gated Security,Moderate,Moderate,"(Factory Manager, Engineer, Technician, Housemaid, Tailor, Watchman)",70000-200000
+Talegaon Dabhade,Near Talegaon Station,Pune,Apartment,6200000,1100,2,5636,16000,4,3,Moderate,Security,Moderate,Moderate,"(Mechanical Engineer, Logistic Manager, Teacher, Housemaid, Tailor, Watchman)",50000-150000
+Lonavala,Tungarli,Lonavala,Villa,28500000,4000,5,7125,95000,9,8,Very High,Swimming Pool,Very High,Low,"(Entrepreneur, Hotelier, Bollywood Executive, Housemaid, Tailor, Watchman)",500000+
+Kamshet,Kamshet Hills,Pune,Villa,31000000,4200,5,7381,98000,8,7,Very High,Gym,Very High,Low,"(Retired Industrialist, Investor, Director, Housemaid, Tailor, Watchman)",500000+
+Charoli,Near DY Patil College,Pune,Apartment,5600000,1000,2,5600,15000,3,2,Moderate,Security,Moderate,Moderate,"(Student, IT Trainee, Freelancer, Housemaid, Tailor, Watchman)",30000-100000
+Bhosari,Indrayani Nagar,Pune,Apartment,6800000,1100,2,6182,18000,4,3,Moderate,Parking,Moderate,Moderate,"(Factory Worker, Supervisor, Shop Owner, Housemaid, Tailor, Watchman)",50000-150000
+Alandi,Dehu Phata,Pune,Apartment,6200000,1050,2,5905,16000,4,3,Moderate,Security,Moderate,Moderate,"(Priest, Shopkeeper, Event Organizer, Housemaid, Tailor, Watchman)",50000-120000
+Pimpri,Sant Tukaram Nagar,Pune,Apartment,7800000,1250,3,6240,22000,6,4,Moderate,Gym,Moderate,Moderate,"(Marketing Manager, IT Support, Financial Advisor, Housemaid, Tailor, Watchman)",60000-140000
+Chinchwad,Chapekar Chowk,Pune,Apartment,9200000,1250,3,7360,27000,6,5,High,Gated Community,High,Low,"(IT Manager, Financial Analyst, Professor, Housemaid, Tailor, Watchman)",80000-200000
+Nigdi,Pradhikaran,Pune,Apartment,8900000,1200,3,7417,26000,5,4,High,Gated Society,High,Low,"(Retail Manager, HR Executive, Civil Engineer, Housemaid, Tailor, Watchman)",70000-180000
+Katraj,Katraj Dairy Area,Pune,Apartment,7200000,1100,2,6545,18000,4,3,Moderate,Parking,Moderate,Moderate,"(Business Owner, Pharmacist, Fitness Trainer, Housemaid, Tailor, Watchman)",70000-200000
+Kondhwa,Kausar Baug,Pune,Apartment,9800000,1300,3,7538,27000,6,5,High,Gated Society,High,Low,"(Doctor, Digital Marketer, Business Consultant, Housemaid, Tailor, Watchman)",100000-300000
+Wanowrie,Salunke Vihar Road,Pune,Apartment,10500000,1400,3,7500,30000,6,5,Very High,Security,High,Low,"(Software Engineer, Consultant, Entrepreneur, Housemaid, Tailor, Watchman)",100000-300000
