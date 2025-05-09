@@ -14,7 +14,7 @@ app = Flask(__name__)
 # Load Neighborhood Dataset
 # -----------------------------
 try:
-    dataset_path = os.path.join(os.path.dirname(__file__), '../datasets/pd copy.csv')
+    dataset_path =  r'datasets/pd_copy.csv'
     neighborhood_df = pd.read_csv(dataset_path)
 except FileNotFoundError:
     neighborhood_df = pd.DataFrame()
@@ -94,3 +94,5 @@ def recommend():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
+if __name__ == "__main__":
+    app.run()
